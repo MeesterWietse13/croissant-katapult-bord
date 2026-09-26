@@ -4,7 +4,7 @@ Lokaal bordspel voor twee of drie groepen. Elke groep schiet op drie ballonnen e
 
 Kies vooraf een woordenreeks, het soort vragen, de vertaalrichting en het aantal oefeningen. Dat aantal wordt willekeurig uit de gekozen reeks gehaald, zonder herhalingen. Trek het brood in de katapult naar beneden en laat los om te schieten. Met de knop **Spelmenu** kun je tijdens het spelen pauzeren, het geluid aanpassen of een nieuw spel beginnen.
 
-Duiven zijn optioneel. Tijdens het spel verschijnen ze alleen na een fout antwoord of wanneer brood of een croissant een duif raakt. Een fout getroffen antwoordballon verdwijnt voor de rest van die vraag en lokt één extra duif. Een duif met stinkkaas raken verjaagt haar; een duif met stokbrood of croissant raken lokt twee extra duiven. Als duiven uitstaan, verdwijnen ook de stinkkaas en de extra duiven door foute antwoorden.
+Duiven zijn optioneel. Een schot dat niets raakt, lokt één extra duif. Een fout getroffen antwoordballon verdwijnt voor de rest van die vraag en lokt twee extra duiven. Een duif met stinkkaas raken verjaagt haar; een duif met stokbrood of croissant raken lokt twee extra duiven. Als duiven uitstaan, verdwijnen ook de stinkkaas en de extra duiven door misschoten en foute antwoorden.
 
 Het geluid bestaat uit korte effecten en drie eenvoudige Franse zinnen: bij nog één vraag te gaan, na drie juiste antwoorden op rij en na een duif die met brood of croissant geraakt wordt. Gelijktijdige gesproken meldingen worden niet opgestapeld. De Franse uitspraak gebruikt de spraakstem van de browser of het toestel; controleer die stem op het digibord. Op het eindscherm klinkt één korte fanfare.
 

@@ -240,9 +240,9 @@ export function GameLane({ groupIndex, question, progress, total, active, finish
                 engine.correctStreak = 0;
                 burst(engine, balloon.x, balloon.y, balloon.color);
                 engine.balloons = engine.balloons.filter((b) => b !== balloon);
-                if (latest.current.pigeonsEnabled) addBird(engine);
+                if (latest.current.pigeonsEnabled) { addBird(engine); addBird(engine); }
                 setFeedback(latest.current.pigeonsEnabled
-                  ? 'Fout antwoord weg: een duif erbij!'
+                  ? 'Fout antwoord weg: twee duiven erbij!'
                   : 'Fout antwoord weg! Probeer dezelfde vraag opnieuw');
                 playTone(latest.current.sound, false);
                 engine.resetAt = now + 650;
@@ -252,6 +252,8 @@ export function GameLane({ groupIndex, question, progress, total, active, finish
           }
           if (shot.fired && (shot.y > H + 30 || shot.y < -60 || shot.x < -50 || shot.x > engine.width + 50)) {
             shot.fired = false; engine.resetAt = now + 400;
+            if (latest.current.pigeonsEnabled) addBird(engine);
+            setFeedback(latest.current.pigeonsEnabled ? 'Mis: een duif erbij!' : 'Mis! Probeer opnieuw');
           }
         }
         if (engine.resetAt && now >= engine.resetAt) {
