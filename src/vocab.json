@@ -1,0 +1,6638 @@
+{
+  "contact1": [
+    {
+      "id": "C1-W-001",
+      "contact": "C1",
+      "type": "woordje",
+      "dutch": "tot",
+      "correct": "à",
+      "alt": [
+        "bien",
+        "ça"
+      ]
+    },
+    {
+      "id": "C1-W-002",
+      "contact": "C1",
+      "type": "woordje",
+      "dutch": "goed",
+      "correct": "bien",
+      "alt": [
+        "ça",
+        "comment"
+      ]
+    },
+    {
+      "id": "C1-W-003",
+      "contact": "C1",
+      "type": "woordje",
+      "dutch": "het, dat",
+      "correct": "ça",
+      "alt": [
+        "comment",
+        "et"
+      ]
+    },
+    {
+      "id": "C1-W-004",
+      "contact": "C1",
+      "type": "woordje",
+      "dutch": "hoe",
+      "correct": "comment",
+      "alt": [
+        "et",
+        "moi"
+      ]
+    },
+    {
+      "id": "C1-W-005",
+      "contact": "C1",
+      "type": "woordje",
+      "dutch": "en",
+      "correct": "et",
+      "alt": [
+        "moi",
+        "toi"
+      ]
+    },
+    {
+      "id": "C1-W-006",
+      "contact": "C1",
+      "type": "woordje",
+      "dutch": "ik, (met) mij",
+      "correct": "moi",
+      "alt": [
+        "toi",
+        "très"
+      ]
+    },
+    {
+      "id": "C1-W-007",
+      "contact": "C1",
+      "type": "woordje",
+      "dutch": "jij, je, (met) jou",
+      "correct": "toi",
+      "alt": [
+        "très",
+        "à"
+      ]
+    },
+    {
+      "id": "C1-W-008",
+      "contact": "C1",
+      "type": "woordje",
+      "dutch": "heel, zeer, erg",
+      "correct": "très",
+      "alt": [
+        "à",
+        "bien"
+      ]
+    },
+    {
+      "id": "C1-E-001",
+      "contact": "C1",
+      "type": "uitdrukking",
+      "dutch": "goedendag",
+      "correct": "bonjour",
+      "alt": [
+        "salut",
+        "Ça va?"
+      ]
+    },
+    {
+      "id": "C1-E-002",
+      "contact": "C1",
+      "type": "uitdrukking",
+      "dutch": "hallo, dag",
+      "correct": "salut",
+      "alt": [
+        "Ça va?",
+        "Comment ça va?"
+      ]
+    },
+    {
+      "id": "C1-E-003",
+      "contact": "C1",
+      "type": "uitdrukking",
+      "dutch": "Gaat het?",
+      "correct": "Ça va?",
+      "alt": [
+        "Comment ça va?",
+        "Ça va (très) bien."
+      ]
+    },
+    {
+      "id": "C1-E-004",
+      "contact": "C1",
+      "type": "uitdrukking",
+      "dutch": "Hoe gaat het?",
+      "correct": "Comment ça va?",
+      "alt": [
+        "Ça va (très) bien.",
+        "Au revoir."
+      ]
+    },
+    {
+      "id": "C1-E-005",
+      "contact": "C1",
+      "type": "uitdrukking",
+      "dutch": "Het gaat (heel) goed.",
+      "correct": "Ça va (très) bien.",
+      "alt": [
+        "Au revoir.",
+        "À bientôt."
+      ]
+    },
+    {
+      "id": "C1-E-006",
+      "contact": "C1",
+      "type": "uitdrukking",
+      "dutch": "Tot ziens.",
+      "correct": "Au revoir.",
+      "alt": [
+        "À bientôt.",
+        "À demain."
+      ]
+    },
+    {
+      "id": "C1-E-007",
+      "contact": "C1",
+      "type": "uitdrukking",
+      "dutch": "Tot gauw.",
+      "correct": "À bientôt.",
+      "alt": [
+        "À demain.",
+        "À ce soir."
+      ]
+    },
+    {
+      "id": "C1-E-008",
+      "contact": "C1",
+      "type": "uitdrukking",
+      "dutch": "Tot morgen.",
+      "correct": "À demain.",
+      "alt": [
+        "À ce soir.",
+        "Voilà ..."
+      ]
+    },
+    {
+      "id": "C1-E-009",
+      "contact": "C1",
+      "type": "uitdrukking",
+      "dutch": "Tot vanavond.",
+      "correct": "À ce soir.",
+      "alt": [
+        "Voilà ...",
+        "oui <-> non"
+      ]
+    },
+    {
+      "id": "C1-E-010",
+      "contact": "C1",
+      "type": "uitdrukking",
+      "dutch": "Daar heb je ..., Daar is / zijn ...",
+      "correct": "Voilà ...",
+      "alt": [
+        "oui <-> non",
+        "bonjour"
+      ]
+    },
+    {
+      "id": "C1-E-011",
+      "contact": "C1",
+      "type": "uitdrukking",
+      "dutch": "ja <-> neen",
+      "correct": "oui <-> non",
+      "alt": [
+        "bonjour",
+        "salut"
+      ]
+    }
+  ],
+  "contact2": [
+    {
+      "id": "C2-W-001",
+      "contact": "C2",
+      "type": "woordje",
+      "dutch": "de school",
+      "correct": "l'école",
+      "alt": [
+        "la gare",
+        "le magasin"
+      ]
+    },
+    {
+      "id": "C2-W-002",
+      "contact": "C2",
+      "type": "woordje",
+      "dutch": "het station",
+      "correct": "la gare",
+      "alt": [
+        "le magasin",
+        "la maison"
+      ]
+    },
+    {
+      "id": "C2-W-003",
+      "contact": "C2",
+      "type": "woordje",
+      "dutch": "de winkel",
+      "correct": "le magasin",
+      "alt": [
+        "la maison",
+        "aller"
+      ]
+    },
+    {
+      "id": "C2-W-004",
+      "contact": "C2",
+      "type": "woordje",
+      "dutch": "het huis",
+      "correct": "la maison",
+      "alt": [
+        "aller",
+        "à (au)"
+      ]
+    },
+    {
+      "id": "C2-W-005",
+      "contact": "C2",
+      "type": "woordje",
+      "dutch": "gaan",
+      "correct": "aller",
+      "alt": [
+        "à (au)",
+        "alors"
+      ]
+    },
+    {
+      "id": "C2-W-006",
+      "contact": "C2",
+      "type": "woordje",
+      "dutch": "naar",
+      "correct": "à (au)",
+      "alt": [
+        "alors",
+        "avec"
+      ]
+    },
+    {
+      "id": "C2-W-007",
+      "contact": "C2",
+      "type": "woordje",
+      "dutch": "dan",
+      "correct": "alors",
+      "alt": [
+        "avec",
+        "de"
+      ]
+    },
+    {
+      "id": "C2-W-008",
+      "contact": "C2",
+      "type": "woordje",
+      "dutch": "met",
+      "correct": "avec",
+      "alt": [
+        "de",
+        "déjà"
+      ]
+    },
+    {
+      "id": "C2-W-009",
+      "contact": "C2",
+      "type": "woordje",
+      "dutch": "van",
+      "correct": "de",
+      "alt": [
+        "déjà",
+        "là"
+      ]
+    },
+    {
+      "id": "C2-W-010",
+      "contact": "C2",
+      "type": "woordje",
+      "dutch": "(nu) al",
+      "correct": "déjà",
+      "alt": [
+        "là",
+        "le, la, (l')"
+      ]
+    },
+    {
+      "id": "C2-W-011",
+      "contact": "C2",
+      "type": "woordje",
+      "dutch": "daar, er",
+      "correct": "là",
+      "alt": [
+        "le, la, (l')",
+        "où"
+      ]
+    },
+    {
+      "id": "C2-W-012",
+      "contact": "C2",
+      "type": "woordje",
+      "dutch": "de, het",
+      "correct": "le, la, (l')",
+      "alt": [
+        "où",
+        "je"
+      ]
+    },
+    {
+      "id": "C2-W-013",
+      "contact": "C2",
+      "type": "woordje",
+      "dutch": "waar",
+      "correct": "où",
+      "alt": [
+        "je",
+        "tu"
+      ]
+    },
+    {
+      "id": "C2-W-014",
+      "contact": "C2",
+      "type": "woordje",
+      "dutch": "ik",
+      "correct": "je",
+      "alt": [
+        "tu",
+        "il"
+      ]
+    },
+    {
+      "id": "C2-W-015",
+      "contact": "C2",
+      "type": "woordje",
+      "dutch": "jij, je",
+      "correct": "tu",
+      "alt": [
+        "il",
+        "elle"
+      ]
+    },
+    {
+      "id": "C2-W-016",
+      "contact": "C2",
+      "type": "woordje",
+      "dutch": "hij",
+      "correct": "il",
+      "alt": [
+        "elle",
+        "nous"
+      ]
+    },
+    {
+      "id": "C2-W-017",
+      "contact": "C2",
+      "type": "woordje",
+      "dutch": "zij, ze",
+      "correct": "elle",
+      "alt": [
+        "nous",
+        "vous"
+      ]
+    },
+    {
+      "id": "C2-W-018",
+      "contact": "C2",
+      "type": "woordje",
+      "dutch": "wij, we",
+      "correct": "nous",
+      "alt": [
+        "vous",
+        "ils"
+      ]
+    },
+    {
+      "id": "C2-W-019",
+      "contact": "C2",
+      "type": "woordje",
+      "dutch": "jullie, u",
+      "correct": "vous",
+      "alt": [
+        "ils",
+        "elles"
+      ]
+    },
+    {
+      "id": "C2-W-020",
+      "contact": "C2",
+      "type": "woordje",
+      "dutch": "zij, ze",
+      "correct": "ils",
+      "alt": [
+        "elles",
+        "l'école"
+      ]
+    },
+    {
+      "id": "C2-W-021",
+      "contact": "C2",
+      "type": "woordje",
+      "dutch": "zij, ze",
+      "correct": "elles",
+      "alt": [
+        "l'école",
+        "la gare"
+      ]
+    },
+    {
+      "id": "C2-E-001",
+      "contact": "C2",
+      "type": "uitdrukking",
+      "dutch": "Waar ga je naartoe?",
+      "correct": "Tu vas où?",
+      "alt": [
+        "Je vais à la gare.",
+        "Il va où?"
+      ]
+    },
+    {
+      "id": "C2-E-002",
+      "contact": "C2",
+      "type": "uitdrukking",
+      "dutch": "Ik ga naar het station.",
+      "correct": "Je vais à la gare.",
+      "alt": [
+        "Il va où?",
+        "Il va à la maison."
+      ]
+    },
+    {
+      "id": "C2-E-003",
+      "contact": "C2",
+      "type": "uitdrukking",
+      "dutch": "Waar gaat hij naartoe?",
+      "correct": "Il va où?",
+      "alt": [
+        "Il va à la maison.",
+        "Où ça?"
+      ]
+    },
+    {
+      "id": "C2-E-004",
+      "contact": "C2",
+      "type": "uitdrukking",
+      "dutch": "Hij gaat naar huis.",
+      "correct": "Il va à la maison.",
+      "alt": [
+        "Où ça?",
+        "Elles vont où?"
+      ]
+    },
+    {
+      "id": "C2-E-005",
+      "contact": "C2",
+      "type": "uitdrukking",
+      "dutch": "Waar?",
+      "correct": "Où ça?",
+      "alt": [
+        "Elles vont où?",
+        "Elles vont au magasin."
+      ]
+    },
+    {
+      "id": "C2-E-006",
+      "contact": "C2",
+      "type": "uitdrukking",
+      "dutch": "Waar gaan ze naartoe?",
+      "correct": "Elles vont où?",
+      "alt": [
+        "Elles vont au magasin.",
+        "Vous allez où?"
+      ]
+    },
+    {
+      "id": "C2-E-007",
+      "contact": "C2",
+      "type": "uitdrukking",
+      "dutch": "Ze gaan naar de winkel.",
+      "correct": "Elles vont au magasin.",
+      "alt": [
+        "Vous allez où?",
+        "Nous allons à l'école."
+      ]
+    },
+    {
+      "id": "C2-E-008",
+      "contact": "C2",
+      "type": "uitdrukking",
+      "dutch": "Waar gaan jullie naartoe?",
+      "correct": "Vous allez où?",
+      "alt": [
+        "Nous allons à l'école.",
+        "Tu vas où?"
+      ]
+    },
+    {
+      "id": "C2-E-009",
+      "contact": "C2",
+      "type": "uitdrukking",
+      "dutch": "Wij gaan naar school.",
+      "correct": "Nous allons à l'école.",
+      "alt": [
+        "Tu vas où?",
+        "Je vais à la gare."
+      ]
+    }
+  ],
+  "contact3": [
+    {
+      "id": "C3-W-001",
+      "contact": "C3",
+      "type": "woordje",
+      "dutch": "een werkkamer, bureau",
+      "correct": "un bureau",
+      "alt": [
+        "un dîner",
+        "un garage"
+      ]
+    },
+    {
+      "id": "C3-W-002",
+      "contact": "C3",
+      "type": "woordje",
+      "dutch": "een avondmaal",
+      "correct": "un dîner",
+      "alt": [
+        "un garage",
+        "un instant"
+      ]
+    },
+    {
+      "id": "C3-W-003",
+      "contact": "C3",
+      "type": "woordje",
+      "dutch": "een garage",
+      "correct": "un garage",
+      "alt": [
+        "un instant",
+        "une maman"
+      ]
+    },
+    {
+      "id": "C3-W-004",
+      "contact": "C3",
+      "type": "woordje",
+      "dutch": "een ogenblik",
+      "correct": "un instant",
+      "alt": [
+        "une maman",
+        "un papa"
+      ]
+    },
+    {
+      "id": "C3-W-005",
+      "contact": "C3",
+      "type": "woordje",
+      "dutch": "een mama",
+      "correct": "une maman",
+      "alt": [
+        "un papa",
+        "un séjour"
+      ]
+    },
+    {
+      "id": "C3-W-006",
+      "contact": "C3",
+      "type": "woordje",
+      "dutch": "een papa",
+      "correct": "un papa",
+      "alt": [
+        "un séjour",
+        "être"
+      ]
+    },
+    {
+      "id": "C3-W-007",
+      "contact": "C3",
+      "type": "woordje",
+      "dutch": "een woonkamer",
+      "correct": "un séjour",
+      "alt": [
+        "être",
+        "dans"
+      ]
+    },
+    {
+      "id": "C3-W-008",
+      "contact": "C3",
+      "type": "woordje",
+      "dutch": "zijn",
+      "correct": "être",
+      "alt": [
+        "dans",
+        "ici"
+      ]
+    },
+    {
+      "id": "C3-W-009",
+      "contact": "C3",
+      "type": "woordje",
+      "dutch": "in",
+      "correct": "dans",
+      "alt": [
+        "ici",
+        "pourquoi"
+      ]
+    },
+    {
+      "id": "C3-W-010",
+      "contact": "C3",
+      "type": "woordje",
+      "dutch": "hier",
+      "correct": "ici",
+      "alt": [
+        "pourquoi",
+        "prêt(e)"
+      ]
+    },
+    {
+      "id": "C3-W-011",
+      "contact": "C3",
+      "type": "woordje",
+      "dutch": "waarom",
+      "correct": "pourquoi",
+      "alt": [
+        "prêt(e)",
+        "sûr, sûre"
+      ]
+    },
+    {
+      "id": "C3-W-012",
+      "contact": "C3",
+      "type": "woordje",
+      "dutch": "klaar",
+      "correct": "prêt(e)",
+      "alt": [
+        "sûr, sûre",
+        "un(e)"
+      ]
+    },
+    {
+      "id": "C3-W-013",
+      "contact": "C3",
+      "type": "woordje",
+      "dutch": "zeker",
+      "correct": "sûr, sûre",
+      "alt": [
+        "un(e)",
+        "un bureau"
+      ]
+    },
+    {
+      "id": "C3-W-014",
+      "contact": "C3",
+      "type": "woordje",
+      "dutch": "een",
+      "correct": "un(e)",
+      "alt": [
+        "un bureau",
+        "un dîner"
+      ]
+    },
+    {
+      "id": "C3-E-001",
+      "contact": "C3",
+      "type": "uitdrukking",
+      "dutch": "Waar ben je?",
+      "correct": "Tu es où?",
+      "alt": [
+        "Je suis ici.",
+        "Je suis dans le séjour."
+      ]
+    },
+    {
+      "id": "C3-E-002",
+      "contact": "C3",
+      "type": "uitdrukking",
+      "dutch": "Ik ben hier.",
+      "correct": "Je suis ici.",
+      "alt": [
+        "Je suis dans le séjour.",
+        "Elle est où?"
+      ]
+    },
+    {
+      "id": "C3-E-003",
+      "contact": "C3",
+      "type": "uitdrukking",
+      "dutch": "Ik ben in de woonkamer.",
+      "correct": "Je suis dans le séjour.",
+      "alt": [
+        "Elle est où?",
+        "Elle est dans le garage."
+      ]
+    },
+    {
+      "id": "C3-E-004",
+      "contact": "C3",
+      "type": "uitdrukking",
+      "dutch": "Waar is zij?",
+      "correct": "Elle est où?",
+      "alt": [
+        "Elle est dans le garage.",
+        "Tu es sûr?"
+      ]
+    },
+    {
+      "id": "C3-E-005",
+      "contact": "C3",
+      "type": "uitdrukking",
+      "dutch": "Zij is in de garage.",
+      "correct": "Elle est dans le garage.",
+      "alt": [
+        "Tu es sûr?",
+        "Ils sont où?"
+      ]
+    },
+    {
+      "id": "C3-E-006",
+      "contact": "C3",
+      "type": "uitdrukking",
+      "dutch": "Ben je zeker?",
+      "correct": "Tu es sûr?",
+      "alt": [
+        "Ils sont où?",
+        "Ils sont dans le bureau."
+      ]
+    },
+    {
+      "id": "C3-E-007",
+      "contact": "C3",
+      "type": "uitdrukking",
+      "dutch": "Waar zijn ze?",
+      "correct": "Ils sont où?",
+      "alt": [
+        "Ils sont dans le bureau.",
+        "Vous êtes là?"
+      ]
+    },
+    {
+      "id": "C3-E-008",
+      "contact": "C3",
+      "type": "uitdrukking",
+      "dutch": "Ze zijn in het bureau.",
+      "correct": "Ils sont dans le bureau.",
+      "alt": [
+        "Vous êtes là?",
+        "Oui, nous sommes là."
+      ]
+    },
+    {
+      "id": "C3-E-009",
+      "contact": "C3",
+      "type": "uitdrukking",
+      "dutch": "Zijn jullie daar?",
+      "correct": "Vous êtes là?",
+      "alt": [
+        "Oui, nous sommes là.",
+        "Le dîner est prêt."
+      ]
+    },
+    {
+      "id": "C3-E-010",
+      "contact": "C3",
+      "type": "uitdrukking",
+      "dutch": "Ja, we zijn hier / er.",
+      "correct": "Oui, nous sommes là.",
+      "alt": [
+        "Le dîner est prêt.",
+        "Tu es où?"
+      ]
+    },
+    {
+      "id": "C3-E-011",
+      "contact": "C3",
+      "type": "uitdrukking",
+      "dutch": "Het avondmaal is klaar.",
+      "correct": "Le dîner est prêt.",
+      "alt": [
+        "Tu es où?",
+        "Je suis ici."
+      ]
+    }
+  ],
+  "contact4": [
+    {
+      "id": "C4-W-001",
+      "contact": "C4",
+      "type": "woordje",
+      "dutch": "een verjaardag",
+      "correct": "un anniversaire",
+      "alt": [
+        "un cadeau",
+        "un CD"
+      ]
+    },
+    {
+      "id": "C4-W-002",
+      "contact": "C4",
+      "type": "woordje",
+      "dutch": "een geschenk",
+      "correct": "un cadeau",
+      "alt": [
+        "un CD",
+        "la chance"
+      ]
+    },
+    {
+      "id": "C4-W-003",
+      "contact": "C4",
+      "type": "woordje",
+      "dutch": "een cd",
+      "correct": "un CD",
+      "alt": [
+        "la chance",
+        "un cinéma"
+      ]
+    },
+    {
+      "id": "C4-W-004",
+      "contact": "C4",
+      "type": "woordje",
+      "dutch": "het geluk",
+      "correct": "la chance",
+      "alt": [
+        "un cinéma",
+        "un film"
+      ]
+    },
+    {
+      "id": "C4-W-005",
+      "contact": "C4",
+      "type": "woordje",
+      "dutch": "een bioscoop",
+      "correct": "un cinéma",
+      "alt": [
+        "un film",
+        "un jeu (vidéo)"
+      ]
+    },
+    {
+      "id": "C4-W-006",
+      "contact": "C4",
+      "type": "woordje",
+      "dutch": "een film",
+      "correct": "un film",
+      "alt": [
+        "un jeu (vidéo)",
+        "la musique"
+      ]
+    },
+    {
+      "id": "C4-W-007",
+      "contact": "C4",
+      "type": "woordje",
+      "dutch": "een (video)spel, game",
+      "correct": "un jeu (vidéo)",
+      "alt": [
+        "la musique",
+        "un ticket de cinéma"
+      ]
+    },
+    {
+      "id": "C4-W-008",
+      "contact": "C4",
+      "type": "woordje",
+      "dutch": "de muziek",
+      "correct": "la musique",
+      "alt": [
+        "un ticket de cinéma",
+        "aimer"
+      ]
+    },
+    {
+      "id": "C4-W-009",
+      "contact": "C4",
+      "type": "woordje",
+      "dutch": "een cinematicket",
+      "correct": "un ticket de cinéma",
+      "alt": [
+        "aimer",
+        "avoir"
+      ]
+    },
+    {
+      "id": "C4-W-010",
+      "contact": "C4",
+      "type": "woordje",
+      "dutch": "houden van",
+      "correct": "aimer",
+      "alt": [
+        "avoir",
+        "regarder"
+      ]
+    },
+    {
+      "id": "C4-W-011",
+      "contact": "C4",
+      "type": "woordje",
+      "dutch": "hebben",
+      "correct": "avoir",
+      "alt": [
+        "regarder",
+        "beaucoup"
+      ]
+    },
+    {
+      "id": "C4-W-012",
+      "contact": "C4",
+      "type": "woordje",
+      "dutch": "kijken",
+      "correct": "regarder",
+      "alt": [
+        "beaucoup",
+        "bon(ne)"
+      ]
+    },
+    {
+      "id": "C4-W-013",
+      "contact": "C4",
+      "type": "woordje",
+      "dutch": "veel",
+      "correct": "beaucoup",
+      "alt": [
+        "bon(ne)",
+        "content(e)"
+      ]
+    },
+    {
+      "id": "C4-W-014",
+      "contact": "C4",
+      "type": "woordje",
+      "dutch": "goed",
+      "correct": "bon(ne)",
+      "alt": [
+        "content(e)",
+        "formidable"
+      ]
+    },
+    {
+      "id": "C4-W-015",
+      "contact": "C4",
+      "type": "woordje",
+      "dutch": "tevreden, blij",
+      "correct": "content(e)",
+      "alt": [
+        "formidable",
+        "joyeux, joyeuse"
+      ]
+    },
+    {
+      "id": "C4-W-016",
+      "contact": "C4",
+      "type": "woordje",
+      "dutch": "formidabel",
+      "correct": "formidable",
+      "alt": [
+        "joyeux, joyeuse",
+        "moderne"
+      ]
+    },
+    {
+      "id": "C4-W-017",
+      "contact": "C4",
+      "type": "woordje",
+      "dutch": "vrolijk",
+      "correct": "joyeux, joyeuse",
+      "alt": [
+        "moderne",
+        "pour"
+      ]
+    },
+    {
+      "id": "C4-W-018",
+      "contact": "C4",
+      "type": "woordje",
+      "dutch": "modern",
+      "correct": "moderne",
+      "alt": [
+        "pour",
+        "qui"
+      ]
+    },
+    {
+      "id": "C4-W-019",
+      "contact": "C4",
+      "type": "woordje",
+      "dutch": "voor",
+      "correct": "pour",
+      "alt": [
+        "qui",
+        "quoi"
+      ]
+    },
+    {
+      "id": "C4-W-020",
+      "contact": "C4",
+      "type": "woordje",
+      "dutch": "wie",
+      "correct": "qui",
+      "alt": [
+        "quoi",
+        "un anniversaire"
+      ]
+    },
+    {
+      "id": "C4-W-021",
+      "contact": "C4",
+      "type": "woordje",
+      "dutch": "wat",
+      "correct": "quoi",
+      "alt": [
+        "un anniversaire",
+        "un cadeau"
+      ]
+    },
+    {
+      "id": "C4-E-001",
+      "contact": "C4",
+      "type": "uitdrukking",
+      "dutch": "Gelukkige verjaardag.",
+      "correct": "Bon anniversaire.",
+      "alt": [
+        "Joyeux anniversaire.",
+        "J’ai un cadeau pour toi."
+      ]
+    },
+    {
+      "id": "C4-E-002",
+      "contact": "C4",
+      "type": "uitdrukking",
+      "dutch": "Gelukkige verjaardag.",
+      "correct": "Joyeux anniversaire.",
+      "alt": [
+        "J’ai un cadeau pour toi.",
+        "Super!"
+      ]
+    },
+    {
+      "id": "C4-E-003",
+      "contact": "C4",
+      "type": "uitdrukking",
+      "dutch": "Ik heb een geschenk voor je.",
+      "correct": "J’ai un cadeau pour toi.",
+      "alt": [
+        "Super!",
+        "C’est quoi?"
+      ]
+    },
+    {
+      "id": "C4-E-004",
+      "contact": "C4",
+      "type": "uitdrukking",
+      "dutch": "Geweldig!",
+      "correct": "Super!",
+      "alt": [
+        "C’est quoi?",
+        "Qu’est-ce que c’est?"
+      ]
+    },
+    {
+      "id": "C4-E-005",
+      "contact": "C4",
+      "type": "uitdrukking",
+      "dutch": "Wat is het?",
+      "correct": "C’est quoi?",
+      "alt": [
+        "Qu’est-ce que c’est?",
+        "C’est un jeu vidéo."
+      ]
+    },
+    {
+      "id": "C4-E-006",
+      "contact": "C4",
+      "type": "uitdrukking",
+      "dutch": "Wat is dat?",
+      "correct": "Qu’est-ce que c’est?",
+      "alt": [
+        "C’est un jeu vidéo.",
+        "C’est qui?"
+      ]
+    },
+    {
+      "id": "C4-E-007",
+      "contact": "C4",
+      "type": "uitdrukking",
+      "dutch": "Het is een game.",
+      "correct": "C’est un jeu vidéo.",
+      "alt": [
+        "C’est qui?",
+        "Bien sûr!"
+      ]
+    },
+    {
+      "id": "C4-E-008",
+      "contact": "C4",
+      "type": "uitdrukking",
+      "dutch": "Wie is het?",
+      "correct": "C’est qui?",
+      "alt": [
+        "Bien sûr!",
+        "Merci (beaucoup)."
+      ]
+    },
+    {
+      "id": "C4-E-009",
+      "contact": "C4",
+      "type": "uitdrukking",
+      "dutch": "Zeker, natuurlijk!",
+      "correct": "Bien sûr!",
+      "alt": [
+        "Merci (beaucoup).",
+        "C’est formidable."
+      ]
+    },
+    {
+      "id": "C4-E-010",
+      "contact": "C4",
+      "type": "uitdrukking",
+      "dutch": "(Heel erg) bedankt.",
+      "correct": "Merci (beaucoup).",
+      "alt": [
+        "C’est formidable.",
+        "Tu as de la chance."
+      ]
+    },
+    {
+      "id": "C4-E-011",
+      "contact": "C4",
+      "type": "uitdrukking",
+      "dutch": "Het is formidabel.",
+      "correct": "C’est formidable.",
+      "alt": [
+        "Tu as de la chance.",
+        "Ça alors!"
+      ]
+    },
+    {
+      "id": "C4-E-012",
+      "contact": "C4",
+      "type": "uitdrukking",
+      "dutch": "Je hebt geluk.",
+      "correct": "Tu as de la chance.",
+      "alt": [
+        "Ça alors!",
+        "Je suis très content."
+      ]
+    },
+    {
+      "id": "C4-E-013",
+      "contact": "C4",
+      "type": "uitdrukking",
+      "dutch": "Nee maar!",
+      "correct": "Ça alors!",
+      "alt": [
+        "Je suis très content.",
+        "Aimes-tu regarder un film?"
+      ]
+    },
+    {
+      "id": "C4-E-014",
+      "contact": "C4",
+      "type": "uitdrukking",
+      "dutch": "Ik ben erg blij.",
+      "correct": "Je suis très content.",
+      "alt": [
+        "Aimes-tu regarder un film?",
+        "Bon anniversaire."
+      ]
+    },
+    {
+      "id": "C4-E-015",
+      "contact": "C4",
+      "type": "uitdrukking",
+      "dutch": "Hou je ervan een film te bekijken?",
+      "correct": "Aimes-tu regarder un film?",
+      "alt": [
+        "Bon anniversaire.",
+        "Joyeux anniversaire."
+      ]
+    }
+  ],
+  "contact5": [
+    {
+      "id": "C5-W-001",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "een leeftijd",
+      "correct": "un âge",
+      "alt": [
+        "un an",
+        "une classe"
+      ]
+    },
+    {
+      "id": "C5-W-002",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "een jaar",
+      "correct": "un an",
+      "alt": [
+        "une classe",
+        "une danse"
+      ]
+    },
+    {
+      "id": "C5-W-003",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "een klas, leerjaar",
+      "correct": "une classe",
+      "alt": [
+        "une danse",
+        "une fille"
+      ]
+    },
+    {
+      "id": "C5-W-004",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "een dans",
+      "correct": "une danse",
+      "alt": [
+        "une fille",
+        "un frère"
+      ]
+    },
+    {
+      "id": "C5-W-005",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "een meisje",
+      "correct": "une fille",
+      "alt": [
+        "un frère",
+        "un garçon"
+      ]
+    },
+    {
+      "id": "C5-W-006",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "een broer",
+      "correct": "un frère",
+      "alt": [
+        "un garçon",
+        "madame"
+      ]
+    },
+    {
+      "id": "C5-W-007",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "een jongen",
+      "correct": "un garçon",
+      "alt": [
+        "madame",
+        "mademoiselle"
+      ]
+    },
+    {
+      "id": "C5-W-008",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "mevrouw",
+      "correct": "madame",
+      "alt": [
+        "mademoiselle",
+        "monsieur"
+      ]
+    },
+    {
+      "id": "C5-W-009",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "juffrouw",
+      "correct": "mademoiselle",
+      "alt": [
+        "monsieur",
+        "une poste"
+      ]
+    },
+    {
+      "id": "C5-W-010",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "meneer",
+      "correct": "monsieur",
+      "alt": [
+        "une poste",
+        "une sœur"
+      ]
+    },
+    {
+      "id": "C5-W-011",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "een postkantoor",
+      "correct": "une poste",
+      "alt": [
+        "une sœur",
+        "une tablette"
+      ]
+    },
+    {
+      "id": "C5-W-012",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "een zus",
+      "correct": "une sœur",
+      "alt": [
+        "une tablette",
+        "adorer"
+      ]
+    },
+    {
+      "id": "C5-W-013",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "een tablet",
+      "correct": "une tablette",
+      "alt": [
+        "adorer",
+        "s’appeler"
+      ]
+    },
+    {
+      "id": "C5-W-014",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "zielsveel houden van",
+      "correct": "adorer",
+      "alt": [
+        "s’appeler",
+        "habiter"
+      ]
+    },
+    {
+      "id": "C5-W-015",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "heten",
+      "correct": "s’appeler",
+      "alt": [
+        "habiter",
+        "jouer"
+      ]
+    },
+    {
+      "id": "C5-W-016",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "wonen",
+      "correct": "habiter",
+      "alt": [
+        "jouer",
+        "aussi"
+      ]
+    },
+    {
+      "id": "C5-W-017",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "spelen",
+      "correct": "jouer",
+      "alt": [
+        "aussi",
+        "combien"
+      ]
+    },
+    {
+      "id": "C5-W-018",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "ook",
+      "correct": "aussi",
+      "alt": [
+        "combien",
+        "encore"
+      ]
+    },
+    {
+      "id": "C5-W-019",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "hoeveel",
+      "correct": "combien",
+      "alt": [
+        "encore",
+        "près (de)"
+      ]
+    },
+    {
+      "id": "C5-W-020",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "nog",
+      "correct": "encore",
+      "alt": [
+        "près (de)",
+        "presque"
+      ]
+    },
+    {
+      "id": "C5-W-021",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "dicht bij",
+      "correct": "près (de)",
+      "alt": [
+        "presque",
+        "quel, quelle"
+      ]
+    },
+    {
+      "id": "C5-W-022",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "bijna",
+      "correct": "presque",
+      "alt": [
+        "quel, quelle",
+        "sixième"
+      ]
+    },
+    {
+      "id": "C5-W-023",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "welk(e)",
+      "correct": "quel, quelle",
+      "alt": [
+        "sixième",
+        "sur"
+      ]
+    },
+    {
+      "id": "C5-W-024",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "zesde",
+      "correct": "sixième",
+      "alt": [
+        "sur",
+        "zéro"
+      ]
+    },
+    {
+      "id": "C5-W-025",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "op",
+      "correct": "sur",
+      "alt": [
+        "zéro",
+        "un"
+      ]
+    },
+    {
+      "id": "C5-W-026",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "0",
+      "correct": "zéro",
+      "alt": [
+        "un",
+        "deux"
+      ]
+    },
+    {
+      "id": "C5-W-027",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "1",
+      "correct": "un",
+      "alt": [
+        "deux",
+        "trois"
+      ]
+    },
+    {
+      "id": "C5-W-028",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "2",
+      "correct": "deux",
+      "alt": [
+        "trois",
+        "quatre"
+      ]
+    },
+    {
+      "id": "C5-W-029",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "3",
+      "correct": "trois",
+      "alt": [
+        "quatre",
+        "cinq"
+      ]
+    },
+    {
+      "id": "C5-W-030",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "4",
+      "correct": "quatre",
+      "alt": [
+        "cinq",
+        "six"
+      ]
+    },
+    {
+      "id": "C5-W-031",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "5",
+      "correct": "cinq",
+      "alt": [
+        "six",
+        "sept"
+      ]
+    },
+    {
+      "id": "C5-W-032",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "6",
+      "correct": "six",
+      "alt": [
+        "sept",
+        "huit"
+      ]
+    },
+    {
+      "id": "C5-W-033",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "7",
+      "correct": "sept",
+      "alt": [
+        "huit",
+        "neuf"
+      ]
+    },
+    {
+      "id": "C5-W-034",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "8",
+      "correct": "huit",
+      "alt": [
+        "neuf",
+        "dix"
+      ]
+    },
+    {
+      "id": "C5-W-035",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "9",
+      "correct": "neuf",
+      "alt": [
+        "dix",
+        "onze"
+      ]
+    },
+    {
+      "id": "C5-W-036",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "10",
+      "correct": "dix",
+      "alt": [
+        "onze",
+        "douze"
+      ]
+    },
+    {
+      "id": "C5-W-037",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "11",
+      "correct": "onze",
+      "alt": [
+        "douze",
+        "treize"
+      ]
+    },
+    {
+      "id": "C5-W-038",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "12",
+      "correct": "douze",
+      "alt": [
+        "treize",
+        "quatorze"
+      ]
+    },
+    {
+      "id": "C5-W-039",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "13",
+      "correct": "treize",
+      "alt": [
+        "quatorze",
+        "quinze"
+      ]
+    },
+    {
+      "id": "C5-W-040",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "14",
+      "correct": "quatorze",
+      "alt": [
+        "quinze",
+        "seize"
+      ]
+    },
+    {
+      "id": "C5-W-041",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "15",
+      "correct": "quinze",
+      "alt": [
+        "seize",
+        "dix-sept"
+      ]
+    },
+    {
+      "id": "C5-W-042",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "16",
+      "correct": "seize",
+      "alt": [
+        "dix-sept",
+        "dix-huit"
+      ]
+    },
+    {
+      "id": "C5-W-043",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "17",
+      "correct": "dix-sept",
+      "alt": [
+        "dix-huit",
+        "dix-neuf"
+      ]
+    },
+    {
+      "id": "C5-W-044",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "18",
+      "correct": "dix-huit",
+      "alt": [
+        "dix-neuf",
+        "vingt"
+      ]
+    },
+    {
+      "id": "C5-W-045",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "19",
+      "correct": "dix-neuf",
+      "alt": [
+        "vingt",
+        "un âge"
+      ]
+    },
+    {
+      "id": "C5-W-046",
+      "contact": "C5",
+      "type": "woordje",
+      "dutch": "20",
+      "correct": "vingt",
+      "alt": [
+        "un âge",
+        "un an"
+      ]
+    },
+    {
+      "id": "C5-E-001",
+      "contact": "C5",
+      "type": "uitdrukking",
+      "dutch": "Hoe heet je?",
+      "correct": "Comment tu t’appelles?",
+      "alt": [
+        "Je m’appelle ...",
+        "Tu as quel âge?"
+      ]
+    },
+    {
+      "id": "C5-E-002",
+      "contact": "C5",
+      "type": "uitdrukking",
+      "dutch": "Ik heet ...",
+      "correct": "Je m’appelle ...",
+      "alt": [
+        "Tu as quel âge?",
+        "J’ai ... ans."
+      ]
+    },
+    {
+      "id": "C5-E-003",
+      "contact": "C5",
+      "type": "uitdrukking",
+      "dutch": "Hoe oud ben je?",
+      "correct": "Tu as quel âge?",
+      "alt": [
+        "J’ai ... ans.",
+        "Tu habites où?"
+      ]
+    },
+    {
+      "id": "C5-E-004",
+      "contact": "C5",
+      "type": "uitdrukking",
+      "dutch": "Ik ben ... jaar.",
+      "correct": "J’ai ... ans.",
+      "alt": [
+        "Tu habites où?",
+        "J’habite (à) Lille."
+      ]
+    },
+    {
+      "id": "C5-E-005",
+      "contact": "C5",
+      "type": "uitdrukking",
+      "dutch": "Waar woon je?",
+      "correct": "Tu habites où?",
+      "alt": [
+        "J’habite (à) Lille.",
+        "J’habite près de la poste."
+      ]
+    },
+    {
+      "id": "C5-E-006",
+      "contact": "C5",
+      "type": "uitdrukking",
+      "dutch": "Ik woon in Rijsel.",
+      "correct": "J’habite (à) Lille.",
+      "alt": [
+        "J’habite près de la poste.",
+        "Tu es dans quelle classe?"
+      ]
+    },
+    {
+      "id": "C5-E-007",
+      "contact": "C5",
+      "type": "uitdrukking",
+      "dutch": "Ik woon dicht bij het postkantoor.",
+      "correct": "J’habite près de la poste.",
+      "alt": [
+        "Tu es dans quelle classe?",
+        "Je suis en sixième."
+      ]
+    },
+    {
+      "id": "C5-E-008",
+      "contact": "C5",
+      "type": "uitdrukking",
+      "dutch": "In welk leerjaar zit je?",
+      "correct": "Tu es dans quelle classe?",
+      "alt": [
+        "Je suis en sixième.",
+        "Vous êtes combien à la maison?"
+      ]
+    },
+    {
+      "id": "C5-E-009",
+      "contact": "C5",
+      "type": "uitdrukking",
+      "dutch": "Ik zit in het zesde leerjaar.",
+      "correct": "Je suis en sixième.",
+      "alt": [
+        "Vous êtes combien à la maison?",
+        "Nous sommes cinq."
+      ]
+    },
+    {
+      "id": "C5-E-010",
+      "contact": "C5",
+      "type": "uitdrukking",
+      "dutch": "Met hoeveel zijn jullie thuis?",
+      "correct": "Vous êtes combien à la maison?",
+      "alt": [
+        "Nous sommes cinq.",
+        "Ils adorent jouer sur la tablette."
+      ]
+    },
+    {
+      "id": "C5-E-011",
+      "contact": "C5",
+      "type": "uitdrukking",
+      "dutch": "We zijn met vijf.",
+      "correct": "Nous sommes cinq.",
+      "alt": [
+        "Ils adorent jouer sur la tablette.",
+        "Comment tu t’appelles?"
+      ]
+    },
+    {
+      "id": "C5-E-012",
+      "contact": "C5",
+      "type": "uitdrukking",
+      "dutch": "Ze spelen heel graag op de tablet.",
+      "correct": "Ils adorent jouer sur la tablette.",
+      "alt": [
+        "Comment tu t’appelles?",
+        "Je m’appelle ..."
+      ]
+    }
+  ],
+  "contact6": [
+    {
+      "id": "C6-W-001",
+      "contact": "C6",
+      "type": "woordje",
+      "dutch": "de boter",
+      "correct": "le beurre",
+      "alt": [
+        "une boisson",
+        "un croissant"
+      ]
+    },
+    {
+      "id": "C6-W-002",
+      "contact": "C6",
+      "type": "woordje",
+      "dutch": "een drank",
+      "correct": "une boisson",
+      "alt": [
+        "un croissant",
+        "le fromage"
+      ]
+    },
+    {
+      "id": "C6-W-003",
+      "contact": "C6",
+      "type": "woordje",
+      "dutch": "een croissant",
+      "correct": "un croissant",
+      "alt": [
+        "le fromage",
+        "une heure"
+      ]
+    },
+    {
+      "id": "C6-W-004",
+      "contact": "C6",
+      "type": "woordje",
+      "dutch": "de kaas",
+      "correct": "le fromage",
+      "alt": [
+        "une heure",
+        "le lait"
+      ]
+    },
+    {
+      "id": "C6-W-005",
+      "contact": "C6",
+      "type": "woordje",
+      "dutch": "een uur",
+      "correct": "une heure",
+      "alt": [
+        "le lait",
+        "un peu"
+      ]
+    },
+    {
+      "id": "C6-W-006",
+      "contact": "C6",
+      "type": "woordje",
+      "dutch": "de melk",
+      "correct": "le lait",
+      "alt": [
+        "un peu",
+        "une table"
+      ]
+    },
+    {
+      "id": "C6-W-007",
+      "contact": "C6",
+      "type": "woordje",
+      "dutch": "een beetje",
+      "correct": "un peu",
+      "alt": [
+        "une table",
+        "une tartine"
+      ]
+    },
+    {
+      "id": "C6-W-008",
+      "contact": "C6",
+      "type": "woordje",
+      "dutch": "een tafel",
+      "correct": "une table",
+      "alt": [
+        "une tartine",
+        "le temps"
+      ]
+    },
+    {
+      "id": "C6-W-009",
+      "contact": "C6",
+      "type": "woordje",
+      "dutch": "een boterham",
+      "correct": "une tartine",
+      "alt": [
+        "le temps",
+        "un sac à dos"
+      ]
+    },
+    {
+      "id": "C6-W-010",
+      "contact": "C6",
+      "type": "woordje",
+      "dutch": "de tijd",
+      "correct": "le temps",
+      "alt": [
+        "un sac à dos",
+        "boire"
+      ]
+    },
+    {
+      "id": "C6-W-011",
+      "contact": "C6",
+      "type": "woordje",
+      "dutch": "een rugzak",
+      "correct": "un sac à dos",
+      "alt": [
+        "boire",
+        "manger"
+      ]
+    },
+    {
+      "id": "C6-W-012",
+      "contact": "C6",
+      "type": "woordje",
+      "dutch": "drinken",
+      "correct": "boire",
+      "alt": [
+        "manger",
+        "partir"
+      ]
+    },
+    {
+      "id": "C6-W-013",
+      "contact": "C6",
+      "type": "woordje",
+      "dutch": "eten",
+      "correct": "manger",
+      "alt": [
+        "partir",
+        "passer"
+      ]
+    },
+    {
+      "id": "C6-W-014",
+      "contact": "C6",
+      "type": "woordje",
+      "dutch": "vertrekken",
+      "correct": "partir",
+      "alt": [
+        "passer",
+        "prendre"
+      ]
+    },
+    {
+      "id": "C6-W-015",
+      "contact": "C6",
+      "type": "woordje",
+      "dutch": "doorgeven",
+      "correct": "passer",
+      "alt": [
+        "prendre",
+        "chaud(e)"
+      ]
+    },
+    {
+      "id": "C6-W-016",
+      "contact": "C6",
+      "type": "woordje",
+      "dutch": "nemen",
+      "correct": "prendre",
+      "alt": [
+        "chaud(e)",
+        "comme"
+      ]
+    },
+    {
+      "id": "C6-W-017",
+      "contact": "C6",
+      "type": "woordje",
+      "dutch": "warm",
+      "correct": "chaud(e)",
+      "alt": [
+        "comme",
+        "debout - debout!"
+      ]
+    },
+    {
+      "id": "C6-W-018",
+      "contact": "C6",
+      "type": "woordje",
+      "dutch": "als",
+      "correct": "comme",
+      "alt": [
+        "debout - debout!",
+        "demi(e)"
+      ]
+    },
+    {
+      "id": "C6-W-019",
+      "contact": "C6",
+      "type": "woordje",
+      "dutch": "op - opstaan!",
+      "correct": "debout - debout!",
+      "alt": [
+        "demi(e)",
+        "mais"
+      ]
+    },
+    {
+      "id": "C6-W-020",
+      "contact": "C6",
+      "type": "woordje",
+      "dutch": "half",
+      "correct": "demi(e)",
+      "alt": [
+        "mais",
+        "mon"
+      ]
+    },
+    {
+      "id": "C6-W-021",
+      "contact": "C6",
+      "type": "woordje",
+      "dutch": "maar",
+      "correct": "mais",
+      "alt": [
+        "mon",
+        "puis"
+      ]
+    },
+    {
+      "id": "C6-W-022",
+      "contact": "C6",
+      "type": "woordje",
+      "dutch": "mijn",
+      "correct": "mon",
+      "alt": [
+        "puis",
+        "vite"
+      ]
+    },
+    {
+      "id": "C6-W-023",
+      "contact": "C6",
+      "type": "woordje",
+      "dutch": "daarna, nadien, vervolgens",
+      "correct": "puis",
+      "alt": [
+        "vite",
+        "vrai"
+      ]
+    },
+    {
+      "id": "C6-W-024",
+      "contact": "C6",
+      "type": "woordje",
+      "dutch": "vlug",
+      "correct": "vite",
+      "alt": [
+        "vrai",
+        "tout le monde"
+      ]
+    },
+    {
+      "id": "C6-W-025",
+      "contact": "C6",
+      "type": "woordje",
+      "dutch": "waar",
+      "correct": "vrai",
+      "alt": [
+        "tout le monde",
+        "le beurre"
+      ]
+    },
+    {
+      "id": "C6-W-026",
+      "contact": "C6",
+      "type": "woordje",
+      "dutch": "iedereen",
+      "correct": "tout le monde",
+      "alt": [
+        "le beurre",
+        "une boisson"
+      ]
+    },
+    {
+      "id": "C6-E-001",
+      "contact": "C6",
+      "type": "uitdrukking",
+      "dutch": "Is 't waar? Echt?",
+      "correct": "C’est vrai?",
+      "alt": [
+        "Ils sont à table.",
+        "Qu’est-ce que tu vas manger?"
+      ]
+    },
+    {
+      "id": "C6-E-002",
+      "contact": "C6",
+      "type": "uitdrukking",
+      "dutch": "Ze zitten aan tafel.",
+      "correct": "Ils sont à table.",
+      "alt": [
+        "Qu’est-ce que tu vas manger?",
+        "Je vais prendre un croissant."
+      ]
+    },
+    {
+      "id": "C6-E-003",
+      "contact": "C6",
+      "type": "uitdrukking",
+      "dutch": "Wat ga je eten?",
+      "correct": "Qu’est-ce que tu vas manger?",
+      "alt": [
+        "Je vais prendre un croissant.",
+        "Et comme boisson?"
+      ]
+    },
+    {
+      "id": "C6-E-004",
+      "contact": "C6",
+      "type": "uitdrukking",
+      "dutch": "Ik ga een croissant nemen.",
+      "correct": "Je vais prendre un croissant.",
+      "alt": [
+        "Et comme boisson?",
+        "Tu me passes le beurre, s’il te plaît?"
+      ]
+    },
+    {
+      "id": "C6-E-005",
+      "contact": "C6",
+      "type": "uitdrukking",
+      "dutch": "En als drank?",
+      "correct": "Et comme boisson?",
+      "alt": [
+        "Tu me passes le beurre, s’il te plaît?",
+        "S’il vous plaît."
+      ]
+    },
+    {
+      "id": "C6-E-006",
+      "contact": "C6",
+      "type": "uitdrukking",
+      "dutch": "Wil je mij de boter doorgeven, alsjeblieft?",
+      "correct": "Tu me passes le beurre, s’il te plaît?",
+      "alt": [
+        "S’il vous plaît.",
+        "Bon appétit."
+      ]
+    },
+    {
+      "id": "C6-E-007",
+      "contact": "C6",
+      "type": "uitdrukking",
+      "dutch": "Alstublieft.",
+      "correct": "S’il vous plaît.",
+      "alt": [
+        "Bon appétit.",
+        "Quelle heure est-il?"
+      ]
+    },
+    {
+      "id": "C6-E-008",
+      "contact": "C6",
+      "type": "uitdrukking",
+      "dutch": "Smakelijk.",
+      "correct": "Bon appétit.",
+      "alt": [
+        "Quelle heure est-il?",
+        "Il est ... heure(s)."
+      ]
+    },
+    {
+      "id": "C6-E-009",
+      "contact": "C6",
+      "type": "uitdrukking",
+      "dutch": "Hoe laat is het?",
+      "correct": "Quelle heure est-il?",
+      "alt": [
+        "Il est ... heure(s).",
+        "Il est temps."
+      ]
+    },
+    {
+      "id": "C6-E-010",
+      "contact": "C6",
+      "type": "uitdrukking",
+      "dutch": "Het is ... uur.",
+      "correct": "Il est ... heure(s).",
+      "alt": [
+        "Il est temps.",
+        "Il est sept heures et quart."
+      ]
+    },
+    {
+      "id": "C6-E-011",
+      "contact": "C6",
+      "type": "uitdrukking",
+      "dutch": "Het is tijd.",
+      "correct": "Il est temps.",
+      "alt": [
+        "Il est sept heures et quart.",
+        "Il est sept heures moins le quart."
+      ]
+    },
+    {
+      "id": "C6-E-012",
+      "contact": "C6",
+      "type": "uitdrukking",
+      "dutch": "Het is kwart over zeven.",
+      "correct": "Il est sept heures et quart.",
+      "alt": [
+        "Il est sept heures moins le quart.",
+        "Il est sept heures et demie."
+      ]
+    },
+    {
+      "id": "C6-E-013",
+      "contact": "C6",
+      "type": "uitdrukking",
+      "dutch": "Het is kwart voor zeven.",
+      "correct": "Il est sept heures moins le quart.",
+      "alt": [
+        "Il est sept heures et demie.",
+        "Tout le monde est prêt?"
+      ]
+    },
+    {
+      "id": "C6-E-014",
+      "contact": "C6",
+      "type": "uitdrukking",
+      "dutch": "Het is half acht.",
+      "correct": "Il est sept heures et demie.",
+      "alt": [
+        "Tout le monde est prêt?",
+        "Nous sommes en retard."
+      ]
+    },
+    {
+      "id": "C6-E-015",
+      "contact": "C6",
+      "type": "uitdrukking",
+      "dutch": "Is iedereen klaar?",
+      "correct": "Tout le monde est prêt?",
+      "alt": [
+        "Nous sommes en retard.",
+        "Nous allons partir."
+      ]
+    },
+    {
+      "id": "C6-E-016",
+      "contact": "C6",
+      "type": "uitdrukking",
+      "dutch": "Wij zijn te laat.",
+      "correct": "Nous sommes en retard.",
+      "alt": [
+        "Nous allons partir.",
+        "Zut!"
+      ]
+    },
+    {
+      "id": "C6-E-017",
+      "contact": "C6",
+      "type": "uitdrukking",
+      "dutch": "We gaan vertrekken.",
+      "correct": "Nous allons partir.",
+      "alt": [
+        "Zut!",
+        "C’est vrai?"
+      ]
+    },
+    {
+      "id": "C6-E-018",
+      "contact": "C6",
+      "type": "uitdrukking",
+      "dutch": "Verdorie!",
+      "correct": "Zut!",
+      "alt": [
+        "C’est vrai?",
+        "Ils sont à table."
+      ]
+    }
+  ],
+  "contact7": [
+    {
+      "id": "C7-W-001",
+      "contact": "C7",
+      "type": "woordje",
+      "dutch": "een schrift",
+      "correct": "un cahier",
+      "alt": [
+        "une chaise",
+        "un copain"
+      ]
+    },
+    {
+      "id": "C7-W-002",
+      "contact": "C7",
+      "type": "woordje",
+      "dutch": "een stoel",
+      "correct": "une chaise",
+      "alt": [
+        "un copain",
+        "une copine"
+      ]
+    },
+    {
+      "id": "C7-W-003",
+      "contact": "C7",
+      "type": "woordje",
+      "dutch": "een vriend",
+      "correct": "un copain",
+      "alt": [
+        "une copine",
+        "le français"
+      ]
+    },
+    {
+      "id": "C7-W-004",
+      "contact": "C7",
+      "type": "woordje",
+      "dutch": "een vriendin",
+      "correct": "une copine",
+      "alt": [
+        "le français",
+        "un livre"
+      ]
+    },
+    {
+      "id": "C7-W-005",
+      "contact": "C7",
+      "type": "woordje",
+      "dutch": "(het) Frans",
+      "correct": "le français",
+      "alt": [
+        "un livre",
+        "un mur"
+      ]
+    },
+    {
+      "id": "C7-W-006",
+      "contact": "C7",
+      "type": "woordje",
+      "dutch": "een boek",
+      "correct": "un livre",
+      "alt": [
+        "un mur",
+        "un ordinateur"
+      ]
+    },
+    {
+      "id": "C7-W-007",
+      "contact": "C7",
+      "type": "woordje",
+      "dutch": "een muur",
+      "correct": "un mur",
+      "alt": [
+        "un ordinateur",
+        "un ordinateur portable"
+      ]
+    },
+    {
+      "id": "C7-W-008",
+      "contact": "C7",
+      "type": "woordje",
+      "dutch": "een computer",
+      "correct": "un ordinateur",
+      "alt": [
+        "un ordinateur portable",
+        "un paquet"
+      ]
+    },
+    {
+      "id": "C7-W-009",
+      "contact": "C7",
+      "type": "woordje",
+      "dutch": "een laptop",
+      "correct": "un ordinateur portable",
+      "alt": [
+        "un paquet",
+        "un portable / un GSM"
+      ]
+    },
+    {
+      "id": "C7-W-010",
+      "contact": "C7",
+      "type": "woordje",
+      "dutch": "een pakket",
+      "correct": "un paquet",
+      "alt": [
+        "un portable / un GSM",
+        "un poster"
+      ]
+    },
+    {
+      "id": "C7-W-011",
+      "contact": "C7",
+      "type": "woordje",
+      "dutch": "een gsm",
+      "correct": "un portable / un GSM",
+      "alt": [
+        "un poster",
+        "un prof(esseur)"
+      ]
+    },
+    {
+      "id": "C7-W-012",
+      "contact": "C7",
+      "type": "woordje",
+      "dutch": "een poster",
+      "correct": "un poster",
+      "alt": [
+        "un prof(esseur)",
+        "une prof(esseur)"
+      ]
+    },
+    {
+      "id": "C7-W-013",
+      "contact": "C7",
+      "type": "woordje",
+      "dutch": "een leraar",
+      "correct": "un prof(esseur)",
+      "alt": [
+        "une prof(esseur)",
+        "un smartphone"
+      ]
+    },
+    {
+      "id": "C7-W-014",
+      "contact": "C7",
+      "type": "woordje",
+      "dutch": "een lerares",
+      "correct": "une prof(esseur)",
+      "alt": [
+        "un smartphone",
+        "comprendre"
+      ]
+    },
+    {
+      "id": "C7-W-015",
+      "contact": "C7",
+      "type": "woordje",
+      "dutch": "een smartphone",
+      "correct": "un smartphone",
+      "alt": [
+        "comprendre",
+        "à côté de"
+      ]
+    },
+    {
+      "id": "C7-W-016",
+      "contact": "C7",
+      "type": "woordje",
+      "dutch": "begrijpen",
+      "correct": "comprendre",
+      "alt": [
+        "à côté de",
+        "à gauche <-> à droite"
+      ]
+    },
+    {
+      "id": "C7-W-017",
+      "contact": "C7",
+      "type": "woordje",
+      "dutch": "naast",
+      "correct": "à côté de",
+      "alt": [
+        "à gauche <-> à droite",
+        "contre"
+      ]
+    },
+    {
+      "id": "C7-W-018",
+      "contact": "C7",
+      "type": "woordje",
+      "dutch": "links <-> rechts",
+      "correct": "à gauche <-> à droite",
+      "alt": [
+        "contre",
+        "depuis"
+      ]
+    },
+    {
+      "id": "C7-W-019",
+      "contact": "C7",
+      "type": "woordje",
+      "dutch": "tegen",
+      "correct": "contre",
+      "alt": [
+        "depuis",
+        "devant <-> derrière"
+      ]
+    },
+    {
+      "id": "C7-W-020",
+      "contact": "C7",
+      "type": "woordje",
+      "dutch": "sinds",
+      "correct": "depuis",
+      "alt": [
+        "devant <-> derrière",
+        "gentil, gentille"
+      ]
+    },
+    {
+      "id": "C7-W-021",
+      "contact": "C7",
+      "type": "woordje",
+      "dutch": "voor <-> achter",
+      "correct": "devant <-> derrière",
+      "alt": [
+        "gentil, gentille",
+        "heureux, heureuse"
+      ]
+    },
+    {
+      "id": "C7-W-022",
+      "contact": "C7",
+      "type": "woordje",
+      "dutch": "vriendelijk",
+      "correct": "gentil, gentille",
+      "alt": [
+        "heureux, heureuse",
+        "hier"
+      ]
+    },
+    {
+      "id": "C7-W-023",
+      "contact": "C7",
+      "type": "woordje",
+      "dutch": "gelukkig",
+      "correct": "heureux, heureuse",
+      "alt": [
+        "hier",
+        "joli(e)"
+      ]
+    },
+    {
+      "id": "C7-W-024",
+      "contact": "C7",
+      "type": "woordje",
+      "dutch": "gisteren",
+      "correct": "hier",
+      "alt": [
+        "joli(e)",
+        "mon, ma"
+      ]
+    },
+    {
+      "id": "C7-W-025",
+      "contact": "C7",
+      "type": "woordje",
+      "dutch": "mooi",
+      "correct": "joli(e)",
+      "alt": [
+        "mon, ma",
+        "nouveau, nouvelle"
+      ]
+    },
+    {
+      "id": "C7-W-026",
+      "contact": "C7",
+      "type": "woordje",
+      "dutch": "mijn",
+      "correct": "mon, ma",
+      "alt": [
+        "nouveau, nouvelle",
+        "petit(e)"
+      ]
+    },
+    {
+      "id": "C7-W-027",
+      "contact": "C7",
+      "type": "woordje",
+      "dutch": "nieuw",
+      "correct": "nouveau, nouvelle",
+      "alt": [
+        "petit(e)",
+        "sous"
+      ]
+    },
+    {
+      "id": "C7-W-028",
+      "contact": "C7",
+      "type": "woordje",
+      "dutch": "klein",
+      "correct": "petit(e)",
+      "alt": [
+        "sous",
+        "surtout"
+      ]
+    },
+    {
+      "id": "C7-W-029",
+      "contact": "C7",
+      "type": "woordje",
+      "dutch": "onder",
+      "correct": "sous",
+      "alt": [
+        "surtout",
+        "ton, ta"
+      ]
+    },
+    {
+      "id": "C7-W-030",
+      "contact": "C7",
+      "type": "woordje",
+      "dutch": "vooral",
+      "correct": "surtout",
+      "alt": [
+        "ton, ta",
+        "un cahier"
+      ]
+    },
+    {
+      "id": "C7-W-031",
+      "contact": "C7",
+      "type": "woordje",
+      "dutch": "jouw, je",
+      "correct": "ton, ta",
+      "alt": [
+        "un cahier",
+        "une chaise"
+      ]
+    },
+    {
+      "id": "C7-E-001",
+      "contact": "C7",
+      "type": "uitdrukking",
+      "dutch": "Ik ben gelukkig.",
+      "correct": "Je suis heureux.",
+      "alt": [
+        "Nous sommes seize.",
+        "Il y a ..."
+      ]
+    },
+    {
+      "id": "C7-E-002",
+      "contact": "C7",
+      "type": "uitdrukking",
+      "dutch": "We zijn met zestien.",
+      "correct": "Nous sommes seize.",
+      "alt": [
+        "Il y a ...",
+        "N’est-ce pas?"
+      ]
+    },
+    {
+      "id": "C7-E-003",
+      "contact": "C7",
+      "type": "uitdrukking",
+      "dutch": "Er is, er zijn, er zit(ten), er ligt, er liggen, er staat, er staan ...",
+      "correct": "Il y a ...",
+      "alt": [
+        "N’est-ce pas?",
+        "Il y a des chaises."
+      ]
+    },
+    {
+      "id": "C7-E-004",
+      "contact": "C7",
+      "type": "uitdrukking",
+      "dutch": "Nietwaar?",
+      "correct": "N’est-ce pas?",
+      "alt": [
+        "Il y a des chaises.",
+        "Il y a des livres sur la table."
+      ]
+    },
+    {
+      "id": "C7-E-005",
+      "contact": "C7",
+      "type": "uitdrukking",
+      "dutch": "Er staan stoelen.",
+      "correct": "Il y a des chaises.",
+      "alt": [
+        "Il y a des livres sur la table.",
+        "Depuis hier."
+      ]
+    },
+    {
+      "id": "C7-E-006",
+      "contact": "C7",
+      "type": "uitdrukking",
+      "dutch": "Er liggen boeken op tafel.",
+      "correct": "Il y a des livres sur la table.",
+      "alt": [
+        "Depuis hier.",
+        "Qui est devant toi?"
+      ]
+    },
+    {
+      "id": "C7-E-007",
+      "contact": "C7",
+      "type": "uitdrukking",
+      "dutch": "Sinds gisteren.",
+      "correct": "Depuis hier.",
+      "alt": [
+        "Qui est devant toi?",
+        "Qui est derrière toi?"
+      ]
+    },
+    {
+      "id": "C7-E-008",
+      "contact": "C7",
+      "type": "uitdrukking",
+      "dutch": "Wie zit er voor jou?",
+      "correct": "Qui est devant toi?",
+      "alt": [
+        "Qui est derrière toi?",
+        "À gauche, il y a mon copain."
+      ]
+    },
+    {
+      "id": "C7-E-009",
+      "contact": "C7",
+      "type": "uitdrukking",
+      "dutch": "Wie zit er achter jou?",
+      "correct": "Qui est derrière toi?",
+      "alt": [
+        "À gauche, il y a mon copain.",
+        "Quelle chance!"
+      ]
+    },
+    {
+      "id": "C7-E-010",
+      "contact": "C7",
+      "type": "uitdrukking",
+      "dutch": "Links zit mijn vriend.",
+      "correct": "À gauche, il y a mon copain.",
+      "alt": [
+        "Quelle chance!",
+        "Il est bon en français."
+      ]
+    },
+    {
+      "id": "C7-E-011",
+      "contact": "C7",
+      "type": "uitdrukking",
+      "dutch": "Wat een geluk!",
+      "correct": "Quelle chance!",
+      "alt": [
+        "Il est bon en français.",
+        "Elle est bonne en français."
+      ]
+    },
+    {
+      "id": "C7-E-012",
+      "contact": "C7",
+      "type": "uitdrukking",
+      "dutch": "Hij is goed in Frans.",
+      "correct": "Il est bon en français.",
+      "alt": [
+        "Elle est bonne en français.",
+        "Je comprends."
+      ]
+    },
+    {
+      "id": "C7-E-013",
+      "contact": "C7",
+      "type": "uitdrukking",
+      "dutch": "Ze is goed in Frans.",
+      "correct": "Elle est bonne en français.",
+      "alt": [
+        "Je comprends.",
+        "Je suis heureux."
+      ]
+    },
+    {
+      "id": "C7-E-014",
+      "contact": "C7",
+      "type": "uitdrukking",
+      "dutch": "Ik begrijp het.",
+      "correct": "Je comprends.",
+      "alt": [
+        "Je suis heureux.",
+        "Nous sommes seize."
+      ]
+    }
+  ],
+  "contact8": [
+    {
+      "id": "C8-W-001",
+      "contact": "C8",
+      "type": "woordje",
+      "dutch": "Duitsland",
+      "correct": "l’Allemagne",
+      "alt": [
+        "les cheveux",
+        "une couleur"
+      ]
+    },
+    {
+      "id": "C8-W-002",
+      "contact": "C8",
+      "type": "woordje",
+      "dutch": "de haren",
+      "correct": "les cheveux",
+      "alt": [
+        "une couleur",
+        "l’Italie"
+      ]
+    },
+    {
+      "id": "C8-W-003",
+      "contact": "C8",
+      "type": "woordje",
+      "dutch": "een kleur",
+      "correct": "une couleur",
+      "alt": [
+        "l’Italie",
+        "des lunettes"
+      ]
+    },
+    {
+      "id": "C8-W-004",
+      "contact": "C8",
+      "type": "woordje",
+      "dutch": "Italië",
+      "correct": "l’Italie",
+      "alt": [
+        "des lunettes",
+        "une photo"
+      ]
+    },
+    {
+      "id": "C8-W-005",
+      "contact": "C8",
+      "type": "woordje",
+      "dutch": "een bril",
+      "correct": "des lunettes",
+      "alt": [
+        "une photo",
+        "les vacances"
+      ]
+    },
+    {
+      "id": "C8-W-006",
+      "contact": "C8",
+      "type": "woordje",
+      "dutch": "een foto",
+      "correct": "une photo",
+      "alt": [
+        "les vacances",
+        "des yeux"
+      ]
+    },
+    {
+      "id": "C8-W-007",
+      "contact": "C8",
+      "type": "woordje",
+      "dutch": "de vakantie",
+      "correct": "les vacances",
+      "alt": [
+        "des yeux",
+        "porter"
+      ]
+    },
+    {
+      "id": "C8-W-008",
+      "contact": "C8",
+      "type": "woordje",
+      "dutch": "ogen",
+      "correct": "des yeux",
+      "alt": [
+        "porter",
+        "beau, belle"
+      ]
+    },
+    {
+      "id": "C8-W-009",
+      "contact": "C8",
+      "type": "woordje",
+      "dutch": "dragen",
+      "correct": "porter",
+      "alt": [
+        "beau, belle",
+        "grand(e)"
+      ]
+    },
+    {
+      "id": "C8-W-010",
+      "contact": "C8",
+      "type": "woordje",
+      "dutch": "mooi",
+      "correct": "beau, belle",
+      "alt": [
+        "grand(e)",
+        "sympa(thique)"
+      ]
+    },
+    {
+      "id": "C8-W-011",
+      "contact": "C8",
+      "type": "woordje",
+      "dutch": "groot",
+      "correct": "grand(e)",
+      "alt": [
+        "sympa(thique)",
+        "les couleurs"
+      ]
+    },
+    {
+      "id": "C8-W-012",
+      "contact": "C8",
+      "type": "woordje",
+      "dutch": "sympathiek",
+      "correct": "sympa(thique)",
+      "alt": [
+        "les couleurs",
+        "blanc, blanche"
+      ]
+    },
+    {
+      "id": "C8-W-013",
+      "contact": "C8",
+      "type": "woordje",
+      "dutch": "de kleuren",
+      "correct": "les couleurs",
+      "alt": [
+        "blanc, blanche",
+        "bleu(e)"
+      ]
+    },
+    {
+      "id": "C8-W-014",
+      "contact": "C8",
+      "type": "woordje",
+      "dutch": "wit",
+      "correct": "blanc, blanche",
+      "alt": [
+        "bleu(e)",
+        "blond(e)"
+      ]
+    },
+    {
+      "id": "C8-W-015",
+      "contact": "C8",
+      "type": "woordje",
+      "dutch": "blauw",
+      "correct": "bleu(e)",
+      "alt": [
+        "blond(e)",
+        "brun(e)"
+      ]
+    },
+    {
+      "id": "C8-W-016",
+      "contact": "C8",
+      "type": "woordje",
+      "dutch": "blond",
+      "correct": "blond(e)",
+      "alt": [
+        "brun(e)",
+        "jaune"
+      ]
+    },
+    {
+      "id": "C8-W-017",
+      "contact": "C8",
+      "type": "woordje",
+      "dutch": "bruin",
+      "correct": "brun(e)",
+      "alt": [
+        "jaune",
+        "noir(e)"
+      ]
+    },
+    {
+      "id": "C8-W-018",
+      "contact": "C8",
+      "type": "woordje",
+      "dutch": "geel",
+      "correct": "jaune",
+      "alt": [
+        "noir(e)",
+        "rouge"
+      ]
+    },
+    {
+      "id": "C8-W-019",
+      "contact": "C8",
+      "type": "woordje",
+      "dutch": "zwart",
+      "correct": "noir(e)",
+      "alt": [
+        "rouge",
+        "vert(e)"
+      ]
+    },
+    {
+      "id": "C8-W-020",
+      "contact": "C8",
+      "type": "woordje",
+      "dutch": "rood",
+      "correct": "rouge",
+      "alt": [
+        "vert(e)",
+        "l’Allemagne"
+      ]
+    },
+    {
+      "id": "C8-W-021",
+      "contact": "C8",
+      "type": "woordje",
+      "dutch": "groen",
+      "correct": "vert(e)",
+      "alt": [
+        "l’Allemagne",
+        "les cheveux"
+      ]
+    },
+    {
+      "id": "C8-E-001",
+      "contact": "C8",
+      "type": "uitdrukking",
+      "dutch": "Hier is ... / zijn ...",
+      "correct": "Voici ...",
+      "alt": [
+        "Il y en a beaucoup!",
+        "Il / Elle est comment?"
+      ]
+    },
+    {
+      "id": "C8-E-002",
+      "contact": "C8",
+      "type": "uitdrukking",
+      "dutch": "Het zijn er veel!",
+      "correct": "Il y en a beaucoup!",
+      "alt": [
+        "Il / Elle est comment?",
+        "Il a les cheveux blonds."
+      ]
+    },
+    {
+      "id": "C8-E-003",
+      "contact": "C8",
+      "type": "uitdrukking",
+      "dutch": "Hoe ziet hij, zij eruit?",
+      "correct": "Il / Elle est comment?",
+      "alt": [
+        "Il a les cheveux blonds.",
+        "Elle a les yeux noirs."
+      ]
+    },
+    {
+      "id": "C8-E-004",
+      "contact": "C8",
+      "type": "uitdrukking",
+      "dutch": "Hij heeft blond haar.",
+      "correct": "Il a les cheveux blonds.",
+      "alt": [
+        "Elle a les yeux noirs.",
+        "Elle porte des lunettes."
+      ]
+    },
+    {
+      "id": "C8-E-005",
+      "contact": "C8",
+      "type": "uitdrukking",
+      "dutch": "Zij heeft zwarte ogen.",
+      "correct": "Elle a les yeux noirs.",
+      "alt": [
+        "Elle porte des lunettes.",
+        "Il est d’où?"
+      ]
+    },
+    {
+      "id": "C8-E-006",
+      "contact": "C8",
+      "type": "uitdrukking",
+      "dutch": "Zij draagt een bril.",
+      "correct": "Elle porte des lunettes.",
+      "alt": [
+        "Il est d’où?",
+        "Il habite en Italie."
+      ]
+    },
+    {
+      "id": "C8-E-007",
+      "contact": "C8",
+      "type": "uitdrukking",
+      "dutch": "Waar is hij vandaan?",
+      "correct": "Il est d’où?",
+      "alt": [
+        "Il habite en Italie.",
+        "Tout à fait."
+      ]
+    },
+    {
+      "id": "C8-E-008",
+      "contact": "C8",
+      "type": "uitdrukking",
+      "dutch": "Hij is van / woont in Italië.",
+      "correct": "Il habite en Italie.",
+      "alt": [
+        "Tout à fait.",
+        "Chouette!"
+      ]
+    },
+    {
+      "id": "C8-E-009",
+      "contact": "C8",
+      "type": "uitdrukking",
+      "dutch": "Helemaal. Precies.",
+      "correct": "Tout à fait.",
+      "alt": [
+        "Chouette!",
+        "Il est sympa."
+      ]
+    },
+    {
+      "id": "C8-E-010",
+      "contact": "C8",
+      "type": "uitdrukking",
+      "dutch": "Tof, zeg!",
+      "correct": "Chouette!",
+      "alt": [
+        "Il est sympa.",
+        "Voici ..."
+      ]
+    },
+    {
+      "id": "C8-E-011",
+      "contact": "C8",
+      "type": "uitdrukking",
+      "dutch": "Hij is sympathiek.",
+      "correct": "Il est sympa.",
+      "alt": [
+        "Voici ...",
+        "Il y en a beaucoup!"
+      ]
+    }
+  ],
+  "contact9": [
+    {
+      "id": "C9-W-001",
+      "contact": "C9",
+      "type": "woordje",
+      "dutch": "een stokbrood",
+      "correct": "une baguette",
+      "alt": [
+        "une bouteille",
+        "le café"
+      ]
+    },
+    {
+      "id": "C9-W-002",
+      "contact": "C9",
+      "type": "woordje",
+      "dutch": "een fles",
+      "correct": "une bouteille",
+      "alt": [
+        "le café",
+        "le coca"
+      ]
+    },
+    {
+      "id": "C9-W-003",
+      "contact": "C9",
+      "type": "woordje",
+      "dutch": "de koffie",
+      "correct": "le café",
+      "alt": [
+        "le coca",
+        "une course"
+      ]
+    },
+    {
+      "id": "C9-W-004",
+      "contact": "C9",
+      "type": "woordje",
+      "dutch": "de cola",
+      "correct": "le coca",
+      "alt": [
+        "une course",
+        "un fruit, les fruits"
+      ]
+    },
+    {
+      "id": "C9-W-005",
+      "contact": "C9",
+      "type": "woordje",
+      "dutch": "een boodschap",
+      "correct": "une course",
+      "alt": [
+        "un fruit, les fruits",
+        "un légume"
+      ]
+    },
+    {
+      "id": "C9-W-006",
+      "contact": "C9",
+      "type": "woordje",
+      "dutch": "een vrucht, fruit",
+      "correct": "un fruit, les fruits",
+      "alt": [
+        "un légume",
+        "une limonade"
+      ]
+    },
+    {
+      "id": "C9-W-007",
+      "contact": "C9",
+      "type": "woordje",
+      "dutch": "een groente",
+      "correct": "un légume",
+      "alt": [
+        "une limonade",
+        "une liste"
+      ]
+    },
+    {
+      "id": "C9-W-008",
+      "contact": "C9",
+      "type": "woordje",
+      "dutch": "een limonade",
+      "correct": "une limonade",
+      "alt": [
+        "une liste",
+        "une liste des courses"
+      ]
+    },
+    {
+      "id": "C9-W-009",
+      "contact": "C9",
+      "type": "woordje",
+      "dutch": "een lijst",
+      "correct": "une liste",
+      "alt": [
+        "une liste des courses",
+        "un pain"
+      ]
+    },
+    {
+      "id": "C9-W-010",
+      "contact": "C9",
+      "type": "woordje",
+      "dutch": "een boodschappenlijst",
+      "correct": "une liste des courses",
+      "alt": [
+        "un pain",
+        "une poire"
+      ]
+    },
+    {
+      "id": "C9-W-011",
+      "contact": "C9",
+      "type": "woordje",
+      "dutch": "een brood",
+      "correct": "un pain",
+      "alt": [
+        "une poire",
+        "une pomme"
+      ]
+    },
+    {
+      "id": "C9-W-012",
+      "contact": "C9",
+      "type": "woordje",
+      "dutch": "een peer",
+      "correct": "une poire",
+      "alt": [
+        "une pomme",
+        "un supermarché"
+      ]
+    },
+    {
+      "id": "C9-W-013",
+      "contact": "C9",
+      "type": "woordje",
+      "dutch": "een appel",
+      "correct": "une pomme",
+      "alt": [
+        "un supermarché",
+        "aider"
+      ]
+    },
+    {
+      "id": "C9-W-014",
+      "contact": "C9",
+      "type": "woordje",
+      "dutch": "een supermarkt",
+      "correct": "un supermarché",
+      "alt": [
+        "aider",
+        "faire"
+      ]
+    },
+    {
+      "id": "C9-W-015",
+      "contact": "C9",
+      "type": "woordje",
+      "dutch": "helpen",
+      "correct": "aider",
+      "alt": [
+        "faire",
+        "savoir : je sais"
+      ]
+    },
+    {
+      "id": "C9-W-016",
+      "contact": "C9",
+      "type": "woordje",
+      "dutch": "doen, maken",
+      "correct": "faire",
+      "alt": [
+        "savoir : je sais",
+        "venir : tu viens"
+      ]
+    },
+    {
+      "id": "C9-W-017",
+      "contact": "C9",
+      "type": "woordje",
+      "dutch": "weten: ik weet",
+      "correct": "savoir : je sais",
+      "alt": [
+        "venir : tu viens",
+        "vouloir : je veux"
+      ]
+    },
+    {
+      "id": "C9-W-018",
+      "contact": "C9",
+      "type": "woordje",
+      "dutch": "komen: je komt",
+      "correct": "venir : tu viens",
+      "alt": [
+        "vouloir : je veux",
+        "maintenant"
+      ]
+    },
+    {
+      "id": "C9-W-019",
+      "contact": "C9",
+      "type": "woordje",
+      "dutch": "willen: ik wil",
+      "correct": "vouloir : je veux",
+      "alt": [
+        "maintenant",
+        "ne ... pas"
+      ]
+    },
+    {
+      "id": "C9-W-020",
+      "contact": "C9",
+      "type": "woordje",
+      "dutch": "nu",
+      "correct": "maintenant",
+      "alt": [
+        "ne ... pas",
+        "ne ... plus"
+      ]
+    },
+    {
+      "id": "C9-W-021",
+      "contact": "C9",
+      "type": "woordje",
+      "dutch": "niet, geen",
+      "correct": "ne ... pas",
+      "alt": [
+        "ne ... plus",
+        "rien"
+      ]
+    },
+    {
+      "id": "C9-W-022",
+      "contact": "C9",
+      "type": "woordje",
+      "dutch": "niet meer, geen meer",
+      "correct": "ne ... plus",
+      "alt": [
+        "rien",
+        "tout"
+      ]
+    },
+    {
+      "id": "C9-W-023",
+      "contact": "C9",
+      "type": "woordje",
+      "dutch": "niets",
+      "correct": "rien",
+      "alt": [
+        "tout",
+        "une baguette"
+      ]
+    },
+    {
+      "id": "C9-W-024",
+      "contact": "C9",
+      "type": "woordje",
+      "dutch": "alles",
+      "correct": "tout",
+      "alt": [
+        "une baguette",
+        "une bouteille"
+      ]
+    },
+    {
+      "id": "C9-E-001",
+      "contact": "C9",
+      "type": "uitdrukking",
+      "dutch": "Wat heb je nodig?",
+      "correct": "De quoi as-tu besoin?",
+      "alt": [
+        "Il n’est pas là.",
+        "Je sais."
+      ]
+    },
+    {
+      "id": "C9-E-002",
+      "contact": "C9",
+      "type": "uitdrukking",
+      "dutch": "Hij is er (daar) niet.",
+      "correct": "Il n’est pas là.",
+      "alt": [
+        "Je sais.",
+        "Je ne sais pas."
+      ]
+    },
+    {
+      "id": "C9-E-003",
+      "contact": "C9",
+      "type": "uitdrukking",
+      "dutch": "Ik weet het.",
+      "correct": "Je sais.",
+      "alt": [
+        "Je ne sais pas.",
+        "Je veux bien t’aider."
+      ]
+    },
+    {
+      "id": "C9-E-004",
+      "contact": "C9",
+      "type": "uitdrukking",
+      "dutch": "Ik weet het niet.",
+      "correct": "Je ne sais pas.",
+      "alt": [
+        "Je veux bien t’aider.",
+        "Je fais les courses."
+      ]
+    },
+    {
+      "id": "C9-E-005",
+      "contact": "C9",
+      "type": "uitdrukking",
+      "dutch": "Ik wil je wel helpen.",
+      "correct": "Je veux bien t’aider.",
+      "alt": [
+        "Je fais les courses.",
+        "Je fais la liste des courses."
+      ]
+    },
+    {
+      "id": "C9-E-006",
+      "contact": "C9",
+      "type": "uitdrukking",
+      "dutch": "Ik doe de boodschappen.",
+      "correct": "Je fais les courses.",
+      "alt": [
+        "Je fais la liste des courses.",
+        "Qu’est-ce qu’il te faut?"
+      ]
+    },
+    {
+      "id": "C9-E-007",
+      "contact": "C9",
+      "type": "uitdrukking",
+      "dutch": "Ik maak de boodschappenlijst op.",
+      "correct": "Je fais la liste des courses.",
+      "alt": [
+        "Qu’est-ce qu’il te faut?",
+        "Il me faut ..."
+      ]
+    },
+    {
+      "id": "C9-E-008",
+      "contact": "C9",
+      "type": "uitdrukking",
+      "dutch": "Wat heb je nodig?",
+      "correct": "Qu’est-ce qu’il te faut?",
+      "alt": [
+        "Il me faut ...",
+        "J’ai besoin de ..."
+      ]
+    },
+    {
+      "id": "C9-E-009",
+      "contact": "C9",
+      "type": "uitdrukking",
+      "dutch": "Ik heb ... nodig.",
+      "correct": "Il me faut ...",
+      "alt": [
+        "J’ai besoin de ...",
+        "C’est tout."
+      ]
+    },
+    {
+      "id": "C9-E-010",
+      "contact": "C9",
+      "type": "uitdrukking",
+      "dutch": "Ik heb ... nodig.",
+      "correct": "J’ai besoin de ...",
+      "alt": [
+        "C’est tout.",
+        "Qu’est-ce que vous faites?"
+      ]
+    },
+    {
+      "id": "C9-E-011",
+      "contact": "C9",
+      "type": "uitdrukking",
+      "dutch": "Dat is alles.",
+      "correct": "C’est tout.",
+      "alt": [
+        "Qu’est-ce que vous faites?",
+        "Rien pour l’instant."
+      ]
+    },
+    {
+      "id": "C9-E-012",
+      "contact": "C9",
+      "type": "uitdrukking",
+      "dutch": "Wat doen jullie?",
+      "correct": "Qu’est-ce que vous faites?",
+      "alt": [
+        "Rien pour l’instant.",
+        "Tu viens avec moi?"
+      ]
+    },
+    {
+      "id": "C9-E-013",
+      "contact": "C9",
+      "type": "uitdrukking",
+      "dutch": "Niets voor het ogenblik.",
+      "correct": "Rien pour l’instant.",
+      "alt": [
+        "Tu viens avec moi?",
+        "D’accord."
+      ]
+    },
+    {
+      "id": "C9-E-014",
+      "contact": "C9",
+      "type": "uitdrukking",
+      "dutch": "Kom je mee met mij?",
+      "correct": "Tu viens avec moi?",
+      "alt": [
+        "D’accord.",
+        "De quoi as-tu besoin?"
+      ]
+    },
+    {
+      "id": "C9-E-015",
+      "contact": "C9",
+      "type": "uitdrukking",
+      "dutch": "Akkoord.",
+      "correct": "D’accord.",
+      "alt": [
+        "De quoi as-tu besoin?",
+        "Il n’est pas là."
+      ]
+    }
+  ],
+  "contact10": [
+    {
+      "id": "C10-W-001",
+      "contact": "C10",
+      "type": "woordje",
+      "dutch": "een artikel",
+      "correct": "un article",
+      "alt": [
+        "une brique",
+        "un chariot"
+      ]
+    },
+    {
+      "id": "C10-W-002",
+      "contact": "C10",
+      "type": "woordje",
+      "dutch": "een brik, pak",
+      "correct": "une brique",
+      "alt": [
+        "un chariot",
+        "un demi-kilo"
+      ]
+    },
+    {
+      "id": "C10-W-003",
+      "contact": "C10",
+      "type": "woordje",
+      "dutch": "een winkelkarretje",
+      "correct": "un chariot",
+      "alt": [
+        "un demi-kilo",
+        "l’eau"
+      ]
+    },
+    {
+      "id": "C10-W-004",
+      "contact": "C10",
+      "type": "woordje",
+      "dutch": "een halve kilo",
+      "correct": "un demi-kilo",
+      "alt": [
+        "l’eau",
+        "un euro"
+      ]
+    },
+    {
+      "id": "C10-W-005",
+      "contact": "C10",
+      "type": "woordje",
+      "dutch": "het water",
+      "correct": "l’eau",
+      "alt": [
+        "un euro",
+        "un jeune homme"
+      ]
+    },
+    {
+      "id": "C10-W-006",
+      "contact": "C10",
+      "type": "woordje",
+      "dutch": "een euro",
+      "correct": "un euro",
+      "alt": [
+        "un jeune homme",
+        "le jus de fruits"
+      ]
+    },
+    {
+      "id": "C10-W-007",
+      "contact": "C10",
+      "type": "woordje",
+      "dutch": "een jongeman",
+      "correct": "un jeune homme",
+      "alt": [
+        "le jus de fruits",
+        "un kilo"
+      ]
+    },
+    {
+      "id": "C10-W-008",
+      "contact": "C10",
+      "type": "woordje",
+      "dutch": "het fruitsap",
+      "correct": "le jus de fruits",
+      "alt": [
+        "un kilo",
+        "un litre"
+      ]
+    },
+    {
+      "id": "C10-W-009",
+      "contact": "C10",
+      "type": "woordje",
+      "dutch": "een kilo",
+      "correct": "un kilo",
+      "alt": [
+        "un litre",
+        "une orange"
+      ]
+    },
+    {
+      "id": "C10-W-010",
+      "contact": "C10",
+      "type": "woordje",
+      "dutch": "een liter",
+      "correct": "un litre",
+      "alt": [
+        "une orange",
+        "un rayon"
+      ]
+    },
+    {
+      "id": "C10-W-011",
+      "contact": "C10",
+      "type": "woordje",
+      "dutch": "een appelsien",
+      "correct": "une orange",
+      "alt": [
+        "un rayon",
+        "une salade"
+      ]
+    },
+    {
+      "id": "C10-W-012",
+      "contact": "C10",
+      "type": "woordje",
+      "dutch": "een afdeling",
+      "correct": "un rayon",
+      "alt": [
+        "une salade",
+        "une tomate"
+      ]
+    },
+    {
+      "id": "C10-W-013",
+      "contact": "C10",
+      "type": "woordje",
+      "dutch": "een krop sla, slaatje",
+      "correct": "une salade",
+      "alt": [
+        "une tomate",
+        "un vendeur"
+      ]
+    },
+    {
+      "id": "C10-W-014",
+      "contact": "C10",
+      "type": "woordje",
+      "dutch": "een tomaat",
+      "correct": "une tomate",
+      "alt": [
+        "un vendeur",
+        "une vendeuse"
+      ]
+    },
+    {
+      "id": "C10-W-015",
+      "contact": "C10",
+      "type": "woordje",
+      "dutch": "een verkoper",
+      "correct": "un vendeur",
+      "alt": [
+        "une vendeuse",
+        "coûter"
+      ]
+    },
+    {
+      "id": "C10-W-016",
+      "contact": "C10",
+      "type": "woordje",
+      "dutch": "een verkoopster",
+      "correct": "une vendeuse",
+      "alt": [
+        "coûter",
+        "désirer"
+      ]
+    },
+    {
+      "id": "C10-W-017",
+      "contact": "C10",
+      "type": "woordje",
+      "dutch": "kosten",
+      "correct": "coûter",
+      "alt": [
+        "désirer",
+        "lire"
+      ]
+    },
+    {
+      "id": "C10-W-018",
+      "contact": "C10",
+      "type": "woordje",
+      "dutch": "verlangen",
+      "correct": "désirer",
+      "alt": [
+        "lire",
+        "oublier"
+      ]
+    },
+    {
+      "id": "C10-W-019",
+      "contact": "C10",
+      "type": "woordje",
+      "dutch": "lezen",
+      "correct": "lire",
+      "alt": [
+        "oublier",
+        "vouloir : je voudrais"
+      ]
+    },
+    {
+      "id": "C10-W-020",
+      "contact": "C10",
+      "type": "woordje",
+      "dutch": "vergeten",
+      "correct": "oublier",
+      "alt": [
+        "vouloir : je voudrais",
+        "jeune"
+      ]
+    },
+    {
+      "id": "C10-W-021",
+      "contact": "C10",
+      "type": "woordje",
+      "dutch": "willen: ik zou ... willen",
+      "correct": "vouloir : je voudrais",
+      "alt": [
+        "jeune",
+        "trente"
+      ]
+    },
+    {
+      "id": "C10-W-022",
+      "contact": "C10",
+      "type": "woordje",
+      "dutch": "jong",
+      "correct": "jeune",
+      "alt": [
+        "trente",
+        "quarante"
+      ]
+    },
+    {
+      "id": "C10-W-023",
+      "contact": "C10",
+      "type": "woordje",
+      "dutch": "dertig",
+      "correct": "trente",
+      "alt": [
+        "quarante",
+        "cinquante"
+      ]
+    },
+    {
+      "id": "C10-W-024",
+      "contact": "C10",
+      "type": "woordje",
+      "dutch": "veertig",
+      "correct": "quarante",
+      "alt": [
+        "cinquante",
+        "un article"
+      ]
+    },
+    {
+      "id": "C10-W-025",
+      "contact": "C10",
+      "type": "woordje",
+      "dutch": "vijftig",
+      "correct": "cinquante",
+      "alt": [
+        "un article",
+        "une brique"
+      ]
+    },
+    {
+      "id": "C10-E-001",
+      "contact": "C10",
+      "type": "uitdrukking",
+      "dutch": "Nog iets?",
+      "correct": "Et avec ça?",
+      "alt": [
+        "Veux-tu lire la liste?",
+        "Il nous faut ..."
+      ]
+    },
+    {
+      "id": "C10-E-002",
+      "contact": "C10",
+      "type": "uitdrukking",
+      "dutch": "Wil je de lijst lezen?",
+      "correct": "Veux-tu lire la liste?",
+      "alt": [
+        "Il nous faut ...",
+        "Vous désirez, jeune homme?"
+      ]
+    },
+    {
+      "id": "C10-E-003",
+      "contact": "C10",
+      "type": "uitdrukking",
+      "dutch": "We hebben ... nodig.",
+      "correct": "Il nous faut ...",
+      "alt": [
+        "Vous désirez, jeune homme?",
+        "Excusez-moi."
+      ]
+    },
+    {
+      "id": "C10-E-004",
+      "contact": "C10",
+      "type": "uitdrukking",
+      "dutch": "Wat mag het zijn, jongeman? / Wat wenst u, jongeman?",
+      "correct": "Vous désirez, jeune homme?",
+      "alt": [
+        "Excusez-moi.",
+        "Je voudrais ..."
+      ]
+    },
+    {
+      "id": "C10-E-005",
+      "contact": "C10",
+      "type": "uitdrukking",
+      "dutch": "Sorry. / Excuseer.",
+      "correct": "Excusez-moi.",
+      "alt": [
+        "Je voudrais ...",
+        "Je voudrais des poires."
+      ]
+    },
+    {
+      "id": "C10-E-006",
+      "contact": "C10",
+      "type": "uitdrukking",
+      "dutch": "Ik zou ... willen.",
+      "correct": "Je voudrais ...",
+      "alt": [
+        "Je voudrais des poires.",
+        "Il n’y a plus de tomates."
+      ]
+    },
+    {
+      "id": "C10-E-007",
+      "contact": "C10",
+      "type": "uitdrukking",
+      "dutch": "Ik zou graag peren willen.",
+      "correct": "Je voudrais des poires.",
+      "alt": [
+        "Il n’y a plus de tomates.",
+        "Combien coûte la salade?"
+      ]
+    },
+    {
+      "id": "C10-E-008",
+      "contact": "C10",
+      "type": "uitdrukking",
+      "dutch": "Er zijn geen tomaten meer.",
+      "correct": "Il n’y a plus de tomates.",
+      "alt": [
+        "Combien coûte la salade?",
+        "Combien ça fait? Ça fait combien?"
+      ]
+    },
+    {
+      "id": "C10-E-009",
+      "contact": "C10",
+      "type": "uitdrukking",
+      "dutch": "Hoeveel kost de salade?",
+      "correct": "Combien coûte la salade?",
+      "alt": [
+        "Combien ça fait? Ça fait combien?",
+        "Ça fait ... euro(s)."
+      ]
+    },
+    {
+      "id": "C10-E-010",
+      "contact": "C10",
+      "type": "uitdrukking",
+      "dutch": "Hoeveel kost / is het?",
+      "correct": "Combien ça fait? Ça fait combien?",
+      "alt": [
+        "Ça fait ... euro(s).",
+        "Et avec ça?"
+      ]
+    },
+    {
+      "id": "C10-E-011",
+      "contact": "C10",
+      "type": "uitdrukking",
+      "dutch": "Dat is ... euro.",
+      "correct": "Ça fait ... euro(s).",
+      "alt": [
+        "Et avec ça?",
+        "Veux-tu lire la liste?"
+      ]
+    }
+  ],
+  "contact11": [
+    {
+      "id": "C11-W-001",
+      "contact": "C11",
+      "type": "woordje",
+      "dutch": "een kruispunt",
+      "correct": "un carrefour",
+      "alt": [
+        "les feux",
+        "un rond-point"
+      ]
+    },
+    {
+      "id": "C11-W-002",
+      "contact": "C11",
+      "type": "woordje",
+      "dutch": "de verkeerslichten",
+      "correct": "les feux",
+      "alt": [
+        "un rond-point",
+        "une rue"
+      ]
+    },
+    {
+      "id": "C11-W-003",
+      "contact": "C11",
+      "type": "woordje",
+      "dutch": "een rotonde",
+      "correct": "un rond-point",
+      "alt": [
+        "une rue",
+        "chercher"
+      ]
+    },
+    {
+      "id": "C11-W-004",
+      "contact": "C11",
+      "type": "woordje",
+      "dutch": "een straat",
+      "correct": "une rue",
+      "alt": [
+        "chercher",
+        "continuer"
+      ]
+    },
+    {
+      "id": "C11-W-005",
+      "contact": "C11",
+      "type": "woordje",
+      "dutch": "zoeken",
+      "correct": "chercher",
+      "alt": [
+        "continuer",
+        "tourner"
+      ]
+    },
+    {
+      "id": "C11-W-006",
+      "contact": "C11",
+      "type": "woordje",
+      "dutch": "verdergaan",
+      "correct": "continuer",
+      "alt": [
+        "tourner",
+        "traverser"
+      ]
+    },
+    {
+      "id": "C11-W-007",
+      "contact": "C11",
+      "type": "woordje",
+      "dutch": "afslaan, draaien",
+      "correct": "tourner",
+      "alt": [
+        "traverser",
+        "après"
+      ]
+    },
+    {
+      "id": "C11-W-008",
+      "contact": "C11",
+      "type": "woordje",
+      "dutch": "oversteken",
+      "correct": "traverser",
+      "alt": [
+        "après",
+        "chez"
+      ]
+    },
+    {
+      "id": "C11-W-009",
+      "contact": "C11",
+      "type": "woordje",
+      "dutch": "daarna",
+      "correct": "après",
+      "alt": [
+        "chez",
+        "deuxième"
+      ]
+    },
+    {
+      "id": "C11-W-010",
+      "contact": "C11",
+      "type": "woordje",
+      "dutch": "bij, naar",
+      "correct": "chez",
+      "alt": [
+        "deuxième",
+        "jusque"
+      ]
+    },
+    {
+      "id": "C11-W-011",
+      "contact": "C11",
+      "type": "woordje",
+      "dutch": "tweede",
+      "correct": "deuxième",
+      "alt": [
+        "jusque",
+        "loin"
+      ]
+    },
+    {
+      "id": "C11-W-012",
+      "contact": "C11",
+      "type": "woordje",
+      "dutch": "tot",
+      "correct": "jusque",
+      "alt": [
+        "loin",
+        "premier, première"
+      ]
+    },
+    {
+      "id": "C11-W-013",
+      "contact": "C11",
+      "type": "woordje",
+      "dutch": "ver",
+      "correct": "loin",
+      "alt": [
+        "premier, première",
+        "tout droit"
+      ]
+    },
+    {
+      "id": "C11-W-014",
+      "contact": "C11",
+      "type": "woordje",
+      "dutch": "eerste",
+      "correct": "premier, première",
+      "alt": [
+        "tout droit",
+        "un carrefour"
+      ]
+    },
+    {
+      "id": "C11-W-015",
+      "contact": "C11",
+      "type": "woordje",
+      "dutch": "rechtdoor",
+      "correct": "tout droit",
+      "alt": [
+        "un carrefour",
+        "les feux"
+      ]
+    },
+    {
+      "id": "C11-E-001",
+      "contact": "C11",
+      "type": "uitdrukking",
+      "dutch": "Excuseer.",
+      "correct": "Pardon.",
+      "alt": [
+        "Je cherche la gare.",
+        "Un peu plus loin."
+      ]
+    },
+    {
+      "id": "C11-E-002",
+      "contact": "C11",
+      "type": "uitdrukking",
+      "dutch": "Ik zoek het station.",
+      "correct": "Je cherche la gare.",
+      "alt": [
+        "Un peu plus loin.",
+        "C’est tout près."
+      ]
+    },
+    {
+      "id": "C11-E-003",
+      "contact": "C11",
+      "type": "uitdrukking",
+      "dutch": "Een beetje verder.",
+      "correct": "Un peu plus loin.",
+      "alt": [
+        "C’est tout près.",
+        "Et après?"
+      ]
+    },
+    {
+      "id": "C11-E-004",
+      "contact": "C11",
+      "type": "uitdrukking",
+      "dutch": "Het is vlakbij.",
+      "correct": "C’est tout près.",
+      "alt": [
+        "Et après?",
+        "De rien."
+      ]
+    },
+    {
+      "id": "C11-E-005",
+      "contact": "C11",
+      "type": "uitdrukking",
+      "dutch": "En daarna?",
+      "correct": "Et après?",
+      "alt": [
+        "De rien.",
+        "Vous traversez le carrefour."
+      ]
+    },
+    {
+      "id": "C11-E-006",
+      "contact": "C11",
+      "type": "uitdrukking",
+      "dutch": "Graag gedaan.",
+      "correct": "De rien.",
+      "alt": [
+        "Vous traversez le carrefour.",
+        "Vous tournez à gauche."
+      ]
+    },
+    {
+      "id": "C11-E-007",
+      "contact": "C11",
+      "type": "uitdrukking",
+      "dutch": "U steekt het kruispunt over.",
+      "correct": "Vous traversez le carrefour.",
+      "alt": [
+        "Vous tournez à gauche.",
+        "Vous prenez à droite."
+      ]
+    },
+    {
+      "id": "C11-E-008",
+      "contact": "C11",
+      "type": "uitdrukking",
+      "dutch": "U draait linksaf.",
+      "correct": "Vous tournez à gauche.",
+      "alt": [
+        "Vous prenez à droite.",
+        "Vous continuez tout droit."
+      ]
+    },
+    {
+      "id": "C11-E-009",
+      "contact": "C11",
+      "type": "uitdrukking",
+      "dutch": "U slaat rechtsaf.",
+      "correct": "Vous prenez à droite.",
+      "alt": [
+        "Vous continuez tout droit.",
+        "Jusqu’au rond-point."
+      ]
+    },
+    {
+      "id": "C11-E-010",
+      "contact": "C11",
+      "type": "uitdrukking",
+      "dutch": "U blijft rechtdoor gaan.",
+      "correct": "Vous continuez tout droit.",
+      "alt": [
+        "Jusqu’au rond-point.",
+        "Pardon."
+      ]
+    },
+    {
+      "id": "C11-E-011",
+      "contact": "C11",
+      "type": "uitdrukking",
+      "dutch": "Tot aan de rotonde.",
+      "correct": "Jusqu’au rond-point.",
+      "alt": [
+        "Pardon.",
+        "Je cherche la gare."
+      ]
+    }
+  ],
+  "contact12": [
+    {
+      "id": "C12-W-001",
+      "contact": "C12",
+      "type": "woordje",
+      "dutch": "een dier, dieren",
+      "correct": "un animal, des animaux",
+      "alt": [
+        "une balle",
+        "un chien"
+      ]
+    },
+    {
+      "id": "C12-W-002",
+      "contact": "C12",
+      "type": "woordje",
+      "dutch": "een bal",
+      "correct": "une balle",
+      "alt": [
+        "un chien",
+        "un chouchou"
+      ]
+    },
+    {
+      "id": "C12-W-003",
+      "contact": "C12",
+      "type": "woordje",
+      "dutch": "een hond",
+      "correct": "un chien",
+      "alt": [
+        "un chouchou",
+        "un enfant"
+      ]
+    },
+    {
+      "id": "C12-W-004",
+      "contact": "C12",
+      "type": "woordje",
+      "dutch": "een lieverdje",
+      "correct": "un chouchou",
+      "alt": [
+        "un enfant",
+        "une enfant"
+      ]
+    },
+    {
+      "id": "C12-W-005",
+      "contact": "C12",
+      "type": "woordje",
+      "dutch": "een kind (m.)",
+      "correct": "un enfant",
+      "alt": [
+        "une enfant",
+        "un jardin"
+      ]
+    },
+    {
+      "id": "C12-W-006",
+      "contact": "C12",
+      "type": "woordje",
+      "dutch": "een kind (vr.)",
+      "correct": "une enfant",
+      "alt": [
+        "un jardin",
+        "un jour"
+      ]
+    },
+    {
+      "id": "C12-W-007",
+      "contact": "C12",
+      "type": "woordje",
+      "dutch": "een tuin",
+      "correct": "un jardin",
+      "alt": [
+        "un jour",
+        "un maître"
+      ]
+    },
+    {
+      "id": "C12-W-008",
+      "contact": "C12",
+      "type": "woordje",
+      "dutch": "een dag",
+      "correct": "un jour",
+      "alt": [
+        "un maître",
+        "une niche"
+      ]
+    },
+    {
+      "id": "C12-W-009",
+      "contact": "C12",
+      "type": "woordje",
+      "dutch": "een meester, baasje",
+      "correct": "un maître",
+      "alt": [
+        "une niche",
+        "un nom"
+      ]
+    },
+    {
+      "id": "C12-W-010",
+      "contact": "C12",
+      "type": "woordje",
+      "dutch": "een hondenhok",
+      "correct": "une niche",
+      "alt": [
+        "un nom",
+        "un père"
+      ]
+    },
+    {
+      "id": "C12-W-011",
+      "contact": "C12",
+      "type": "woordje",
+      "dutch": "een naam",
+      "correct": "un nom",
+      "alt": [
+        "un père",
+        "une promenade"
+      ]
+    },
+    {
+      "id": "C12-W-012",
+      "contact": "C12",
+      "type": "woordje",
+      "dutch": "een vader",
+      "correct": "un père",
+      "alt": [
+        "une promenade",
+        "s’amuser"
+      ]
+    },
+    {
+      "id": "C12-W-013",
+      "contact": "C12",
+      "type": "woordje",
+      "dutch": "een wandeling",
+      "correct": "une promenade",
+      "alt": [
+        "s’amuser",
+        "courir"
+      ]
+    },
+    {
+      "id": "C12-W-014",
+      "contact": "C12",
+      "type": "woordje",
+      "dutch": "zich amuseren",
+      "correct": "s’amuser",
+      "alt": [
+        "courir",
+        "dormir : il dort"
+      ]
+    },
+    {
+      "id": "C12-W-015",
+      "contact": "C12",
+      "type": "woordje",
+      "dutch": "lopen",
+      "correct": "courir",
+      "alt": [
+        "dormir : il dort",
+        "sortir"
+      ]
+    },
+    {
+      "id": "C12-W-016",
+      "contact": "C12",
+      "type": "woordje",
+      "dutch": "slapen: hij slaapt",
+      "correct": "dormir : il dort",
+      "alt": [
+        "sortir",
+        "chaque"
+      ]
+    },
+    {
+      "id": "C12-W-017",
+      "contact": "C12",
+      "type": "woordje",
+      "dutch": "naar buiten gaan, uitgaan",
+      "correct": "sortir",
+      "alt": [
+        "chaque",
+        "dehors"
+      ]
+    },
+    {
+      "id": "C12-W-018",
+      "contact": "C12",
+      "type": "woordje",
+      "dutch": "elk(e), ieder(e)",
+      "correct": "chaque",
+      "alt": [
+        "dehors",
+        "méchant(e)"
+      ]
+    },
+    {
+      "id": "C12-W-019",
+      "contact": "C12",
+      "type": "woordje",
+      "dutch": "buiten",
+      "correct": "dehors",
+      "alt": [
+        "méchant(e)",
+        "préféré(e)"
+      ]
+    },
+    {
+      "id": "C12-W-020",
+      "contact": "C12",
+      "type": "woordje",
+      "dutch": "stout",
+      "correct": "méchant(e)",
+      "alt": [
+        "préféré(e)",
+        "son, sa"
+      ]
+    },
+    {
+      "id": "C12-W-021",
+      "contact": "C12",
+      "type": "woordje",
+      "dutch": "lievelings-",
+      "correct": "préféré(e)",
+      "alt": [
+        "son, sa",
+        "vraiment"
+      ]
+    },
+    {
+      "id": "C12-W-022",
+      "contact": "C12",
+      "type": "woordje",
+      "dutch": "zijn, haar",
+      "correct": "son, sa",
+      "alt": [
+        "vraiment",
+        "un animal, des animaux"
+      ]
+    },
+    {
+      "id": "C12-W-023",
+      "contact": "C12",
+      "type": "woordje",
+      "dutch": "werkelijk, echt",
+      "correct": "vraiment",
+      "alt": [
+        "un animal, des animaux",
+        "une balle"
+      ]
+    },
+    {
+      "id": "C12-E-001",
+      "contact": "C12",
+      "type": "uitdrukking",
+      "dutch": "Het is mijn lieverdje.",
+      "correct": "C’est mon chouchou.",
+      "alt": [
+        "Il dort dehors.",
+        "Sa niche est dans le jardin."
+      ]
+    },
+    {
+      "id": "C12-E-002",
+      "contact": "C12",
+      "type": "uitdrukking",
+      "dutch": "Hij slaapt buiten.",
+      "correct": "Il dort dehors.",
+      "alt": [
+        "Sa niche est dans le jardin.",
+        "Il n’est pas méchant."
+      ]
+    },
+    {
+      "id": "C12-E-003",
+      "contact": "C12",
+      "type": "uitdrukking",
+      "dutch": "Zijn hok is in de tuin.",
+      "correct": "Sa niche est dans le jardin.",
+      "alt": [
+        "Il n’est pas méchant.",
+        "Il aime sortir."
+      ]
+    },
+    {
+      "id": "C12-E-004",
+      "contact": "C12",
+      "type": "uitdrukking",
+      "dutch": "Hij is niet stout.",
+      "correct": "Il n’est pas méchant.",
+      "alt": [
+        "Il aime sortir.",
+        "Il aime courir après sa balle."
+      ]
+    },
+    {
+      "id": "C12-E-005",
+      "contact": "C12",
+      "type": "uitdrukking",
+      "dutch": "Hij gaat graag naar buiten.",
+      "correct": "Il aime sortir.",
+      "alt": [
+        "Il aime courir après sa balle.",
+        "Je fais une promenade."
+      ]
+    },
+    {
+      "id": "C12-E-006",
+      "contact": "C12",
+      "type": "uitdrukking",
+      "dutch": "Hij loopt graag achter zijn bal.",
+      "correct": "Il aime courir après sa balle.",
+      "alt": [
+        "Je fais une promenade.",
+        "C’est mon chouchou."
+      ]
+    },
+    {
+      "id": "C12-E-007",
+      "contact": "C12",
+      "type": "uitdrukking",
+      "dutch": "Ik maak een wandeling.",
+      "correct": "Je fais une promenade.",
+      "alt": [
+        "C’est mon chouchou.",
+        "Il dort dehors."
+      ]
+    }
+  ],
+  "contact13": [
+    {
+      "id": "C13-W-001",
+      "contact": "C13",
+      "type": "woordje",
+      "dutch": "het platteland",
+      "correct": "la campagne",
+      "alt": [
+        "une cave",
+        "une chambre"
+      ]
+    },
+    {
+      "id": "C13-W-002",
+      "contact": "C13",
+      "type": "woordje",
+      "dutch": "een kelder",
+      "correct": "une cave",
+      "alt": [
+        "une chambre",
+        "une cuisine"
+      ]
+    },
+    {
+      "id": "C13-W-003",
+      "contact": "C13",
+      "type": "woordje",
+      "dutch": "een kamer",
+      "correct": "une chambre",
+      "alt": [
+        "une cuisine",
+        "un escalier"
+      ]
+    },
+    {
+      "id": "C13-W-004",
+      "contact": "C13",
+      "type": "woordje",
+      "dutch": "een keuken",
+      "correct": "une cuisine",
+      "alt": [
+        "un escalier",
+        "un hall / une entrée"
+      ]
+    },
+    {
+      "id": "C13-W-005",
+      "contact": "C13",
+      "type": "woordje",
+      "dutch": "een trap",
+      "correct": "un escalier",
+      "alt": [
+        "un hall / une entrée",
+        "un numéro"
+      ]
+    },
+    {
+      "id": "C13-W-006",
+      "contact": "C13",
+      "type": "woordje",
+      "dutch": "een hal",
+      "correct": "un hall / une entrée",
+      "alt": [
+        "un numéro",
+        "les parents"
+      ]
+    },
+    {
+      "id": "C13-W-007",
+      "contact": "C13",
+      "type": "woordje",
+      "dutch": "een nummer",
+      "correct": "un numéro",
+      "alt": [
+        "les parents",
+        "une pièce"
+      ]
+    },
+    {
+      "id": "C13-W-008",
+      "contact": "C13",
+      "type": "woordje",
+      "dutch": "de ouders",
+      "correct": "les parents",
+      "alt": [
+        "une pièce",
+        "une porte"
+      ]
+    },
+    {
+      "id": "C13-W-009",
+      "contact": "C13",
+      "type": "woordje",
+      "dutch": "een kamer, ruimte",
+      "correct": "une pièce",
+      "alt": [
+        "une porte",
+        "une salle de bains"
+      ]
+    },
+    {
+      "id": "C13-W-010",
+      "contact": "C13",
+      "type": "woordje",
+      "dutch": "een deur",
+      "correct": "une porte",
+      "alt": [
+        "une salle de bains",
+        "les toilettes"
+      ]
+    },
+    {
+      "id": "C13-W-011",
+      "contact": "C13",
+      "type": "woordje",
+      "dutch": "een badkamer",
+      "correct": "une salle de bains",
+      "alt": [
+        "les toilettes",
+        "une vie"
+      ]
+    },
+    {
+      "id": "C13-W-012",
+      "contact": "C13",
+      "type": "woordje",
+      "dutch": "het toilet",
+      "correct": "les toilettes",
+      "alt": [
+        "une vie",
+        "une ville"
+      ]
+    },
+    {
+      "id": "C13-W-013",
+      "contact": "C13",
+      "type": "woordje",
+      "dutch": "een leven",
+      "correct": "une vie",
+      "alt": [
+        "une ville",
+        "entrer"
+      ]
+    },
+    {
+      "id": "C13-W-014",
+      "contact": "C13",
+      "type": "woordje",
+      "dutch": "een stad",
+      "correct": "une ville",
+      "alt": [
+        "entrer",
+        "montrer"
+      ]
+    },
+    {
+      "id": "C13-W-015",
+      "contact": "C13",
+      "type": "woordje",
+      "dutch": "binnengaan",
+      "correct": "entrer",
+      "alt": [
+        "montrer",
+        "préférer"
+      ]
+    },
+    {
+      "id": "C13-W-016",
+      "contact": "C13",
+      "type": "woordje",
+      "dutch": "tonen",
+      "correct": "montrer",
+      "alt": [
+        "préférer",
+        "vivre"
+      ]
+    },
+    {
+      "id": "C13-W-017",
+      "contact": "C13",
+      "type": "woordje",
+      "dutch": "verkiezen",
+      "correct": "préférer",
+      "alt": [
+        "vivre",
+        "en bas"
+      ]
+    },
+    {
+      "id": "C13-W-018",
+      "contact": "C13",
+      "type": "woordje",
+      "dutch": "leven",
+      "correct": "vivre",
+      "alt": [
+        "en bas",
+        "en haut"
+      ]
+    },
+    {
+      "id": "C13-W-019",
+      "contact": "C13",
+      "type": "woordje",
+      "dutch": "beneden",
+      "correct": "en bas",
+      "alt": [
+        "en haut",
+        "pratique"
+      ]
+    },
+    {
+      "id": "C13-W-020",
+      "contact": "C13",
+      "type": "woordje",
+      "dutch": "boven",
+      "correct": "en haut",
+      "alt": [
+        "pratique",
+        "mes (+ mv.)"
+      ]
+    },
+    {
+      "id": "C13-W-021",
+      "contact": "C13",
+      "type": "woordje",
+      "dutch": "praktisch",
+      "correct": "pratique",
+      "alt": [
+        "mes (+ mv.)",
+        "tes (+ mv.)"
+      ]
+    },
+    {
+      "id": "C13-W-022",
+      "contact": "C13",
+      "type": "woordje",
+      "dutch": "mijn",
+      "correct": "mes (+ mv.)",
+      "alt": [
+        "tes (+ mv.)",
+        "ses (+ mv.)"
+      ]
+    },
+    {
+      "id": "C13-W-023",
+      "contact": "C13",
+      "type": "woordje",
+      "dutch": "jouw, je",
+      "correct": "tes (+ mv.)",
+      "alt": [
+        "ses (+ mv.)",
+        "la campagne"
+      ]
+    },
+    {
+      "id": "C13-W-024",
+      "contact": "C13",
+      "type": "woordje",
+      "dutch": "zijn, haar",
+      "correct": "ses (+ mv.)",
+      "alt": [
+        "la campagne",
+        "une cave"
+      ]
+    },
+    {
+      "id": "C13-E-001",
+      "contact": "C13",
+      "type": "uitdrukking",
+      "dutch": "Ik woon op het nummer 8.",
+      "correct": "J’habite au numéro 8.",
+      "alt": [
+        "Ils aiment vivre à la campagne.",
+        "Ils préfèrent vivre en ville."
+      ]
+    },
+    {
+      "id": "C13-E-002",
+      "contact": "C13",
+      "type": "uitdrukking",
+      "dutch": "Ze wonen graag op het platteland.",
+      "correct": "Ils aiment vivre à la campagne.",
+      "alt": [
+        "Ils préfèrent vivre en ville.",
+        "Je vais te montrer la cuisine."
+      ]
+    },
+    {
+      "id": "C13-E-003",
+      "contact": "C13",
+      "type": "uitdrukking",
+      "dutch": "Ze wonen liever in de stad.",
+      "correct": "Ils préfèrent vivre en ville.",
+      "alt": [
+        "Je vais te montrer la cuisine.",
+        "Nous entrons dans le hall."
+      ]
+    },
+    {
+      "id": "C13-E-004",
+      "contact": "C13",
+      "type": "uitdrukking",
+      "dutch": "Ik ga je de keuken tonen.",
+      "correct": "Je vais te montrer la cuisine.",
+      "alt": [
+        "Nous entrons dans le hall.",
+        "Comme c’est grand!"
+      ]
+    },
+    {
+      "id": "C13-E-005",
+      "contact": "C13",
+      "type": "uitdrukking",
+      "dutch": "Wij komen de hal binnen.",
+      "correct": "Nous entrons dans le hall.",
+      "alt": [
+        "Comme c’est grand!",
+        "En bas, il y a cinq pièces."
+      ]
+    },
+    {
+      "id": "C13-E-006",
+      "contact": "C13",
+      "type": "uitdrukking",
+      "dutch": "Zo groot!",
+      "correct": "Comme c’est grand!",
+      "alt": [
+        "En bas, il y a cinq pièces.",
+        "En haut, il y a trois chambres."
+      ]
+    },
+    {
+      "id": "C13-E-007",
+      "contact": "C13",
+      "type": "uitdrukking",
+      "dutch": "Beneden zijn er vijf vertrekken.",
+      "correct": "En bas, il y a cinq pièces.",
+      "alt": [
+        "En haut, il y a trois chambres.",
+        "Quelle belle maison!"
+      ]
+    },
+    {
+      "id": "C13-E-008",
+      "contact": "C13",
+      "type": "uitdrukking",
+      "dutch": "Boven zijn er drie kamers.",
+      "correct": "En haut, il y a trois chambres.",
+      "alt": [
+        "Quelle belle maison!",
+        "J’habite au numéro 8."
+      ]
+    },
+    {
+      "id": "C13-E-009",
+      "contact": "C13",
+      "type": "uitdrukking",
+      "dutch": "Wat een mooi huis!",
+      "correct": "Quelle belle maison!",
+      "alt": [
+        "J’habite au numéro 8.",
+        "Ils aiment vivre à la campagne."
+      ]
+    }
+  ],
+  "contact14": [
+    {
+      "id": "C14-W-001",
+      "contact": "C14",
+      "type": "woordje",
+      "dutch": "een vriend",
+      "correct": "un ami",
+      "alt": [
+        "une amie",
+        "un appareil"
+      ]
+    },
+    {
+      "id": "C14-W-002",
+      "contact": "C14",
+      "type": "woordje",
+      "dutch": "een vriendin",
+      "correct": "une amie",
+      "alt": [
+        "un appareil",
+        "une piscine"
+      ]
+    },
+    {
+      "id": "C14-W-003",
+      "contact": "C14",
+      "type": "woordje",
+      "dutch": "een (telefoon)toestel",
+      "correct": "un appareil",
+      "alt": [
+        "une piscine",
+        "un rendez-vous"
+      ]
+    },
+    {
+      "id": "C14-W-004",
+      "contact": "C14",
+      "type": "woordje",
+      "dutch": "een zwembad",
+      "correct": "une piscine",
+      "alt": [
+        "un rendez-vous",
+        "un téléphone"
+      ]
+    },
+    {
+      "id": "C14-W-005",
+      "contact": "C14",
+      "type": "woordje",
+      "dutch": "een afspraak",
+      "correct": "un rendez-vous",
+      "alt": [
+        "un téléphone",
+        "libre"
+      ]
+    },
+    {
+      "id": "C14-W-006",
+      "contact": "C14",
+      "type": "woordje",
+      "dutch": "een telefoon",
+      "correct": "un téléphone",
+      "alt": [
+        "libre",
+        "quand"
+      ]
+    },
+    {
+      "id": "C14-W-007",
+      "contact": "C14",
+      "type": "woordje",
+      "dutch": "vrij",
+      "correct": "libre",
+      "alt": [
+        "quand",
+        "tard"
+      ]
+    },
+    {
+      "id": "C14-W-008",
+      "contact": "C14",
+      "type": "woordje",
+      "dutch": "wanneer",
+      "correct": "quand",
+      "alt": [
+        "tard",
+        "un ami"
+      ]
+    },
+    {
+      "id": "C14-W-009",
+      "contact": "C14",
+      "type": "woordje",
+      "dutch": "laat",
+      "correct": "tard",
+      "alt": [
+        "un ami",
+        "une amie"
+      ]
+    },
+    {
+      "id": "C14-E-001",
+      "contact": "C14",
+      "type": "uitdrukking",
+      "dutch": "Met wie spreek ik? Wie heb ik aan de lijn?",
+      "correct": "Qui est à l’appareil?",
+      "alt": [
+        "Tu es libre?",
+        "Pour quoi faire?"
+      ]
+    },
+    {
+      "id": "C14-E-002",
+      "contact": "C14",
+      "type": "uitdrukking",
+      "dutch": "Ben je vrij?",
+      "correct": "Tu es libre?",
+      "alt": [
+        "Pour quoi faire?",
+        "Quand partez-vous?"
+      ]
+    },
+    {
+      "id": "C14-E-003",
+      "contact": "C14",
+      "type": "uitdrukking",
+      "dutch": "Om wat te doen?",
+      "correct": "Pour quoi faire?",
+      "alt": [
+        "Quand partez-vous?",
+        "Où est le rendez-vous?"
+      ]
+    },
+    {
+      "id": "C14-E-004",
+      "contact": "C14",
+      "type": "uitdrukking",
+      "dutch": "Wanneer vertrekken jullie?",
+      "correct": "Quand partez-vous?",
+      "alt": [
+        "Où est le rendez-vous?",
+        "À plus tard."
+      ]
+    },
+    {
+      "id": "C14-E-005",
+      "contact": "C14",
+      "type": "uitdrukking",
+      "dutch": "Waar wordt er afgesproken?",
+      "correct": "Où est le rendez-vous?",
+      "alt": [
+        "À plus tard.",
+        "Qui est à l’appareil?"
+      ]
+    },
+    {
+      "id": "C14-E-006",
+      "contact": "C14",
+      "type": "uitdrukking",
+      "dutch": "Tot later.",
+      "correct": "À plus tard.",
+      "alt": [
+        "Qui est à l’appareil?",
+        "Tu es libre?"
+      ]
+    }
+  ],
+  "contact15": [
+    {
+      "id": "C15-W-001",
+      "contact": "C15",
+      "type": "woordje",
+      "dutch": "een bord",
+      "correct": "une assiette",
+      "alt": [
+        "un boucher",
+        "un chicon"
+      ]
+    },
+    {
+      "id": "C15-W-002",
+      "contact": "C15",
+      "type": "woordje",
+      "dutch": "een slager",
+      "correct": "un boucher",
+      "alt": [
+        "un chicon",
+        "un couteau"
+      ]
+    },
+    {
+      "id": "C15-W-003",
+      "contact": "C15",
+      "type": "woordje",
+      "dutch": "een stronk witloof",
+      "correct": "un chicon",
+      "alt": [
+        "un couteau",
+        "une fois"
+      ]
+    },
+    {
+      "id": "C15-W-004",
+      "contact": "C15",
+      "type": "woordje",
+      "dutch": "een mes",
+      "correct": "un couteau",
+      "alt": [
+        "une fois",
+        "une fourchette"
+      ]
+    },
+    {
+      "id": "C15-W-005",
+      "contact": "C15",
+      "type": "woordje",
+      "dutch": "een keer",
+      "correct": "une fois",
+      "alt": [
+        "une fourchette",
+        "une nappe"
+      ]
+    },
+    {
+      "id": "C15-W-006",
+      "contact": "C15",
+      "type": "woordje",
+      "dutch": "een vork",
+      "correct": "une fourchette",
+      "alt": [
+        "une nappe",
+        "un pot-au-feu"
+      ]
+    },
+    {
+      "id": "C15-W-007",
+      "contact": "C15",
+      "type": "woordje",
+      "dutch": "een tafelkleed",
+      "correct": "une nappe",
+      "alt": [
+        "un pot-au-feu",
+        "la santé"
+      ]
+    },
+    {
+      "id": "C15-W-008",
+      "contact": "C15",
+      "type": "woordje",
+      "dutch": "een stoofschotel",
+      "correct": "un pot-au-feu",
+      "alt": [
+        "la santé",
+        "une semaine"
+      ]
+    },
+    {
+      "id": "C15-W-009",
+      "contact": "C15",
+      "type": "woordje",
+      "dutch": "de gezondheid",
+      "correct": "la santé",
+      "alt": [
+        "une semaine",
+        "un travail (des travaux)"
+      ]
+    },
+    {
+      "id": "C15-W-010",
+      "contact": "C15",
+      "type": "woordje",
+      "dutch": "een week",
+      "correct": "une semaine",
+      "alt": [
+        "un travail (des travaux)",
+        "un verre"
+      ]
+    },
+    {
+      "id": "C15-W-011",
+      "contact": "C15",
+      "type": "woordje",
+      "dutch": "een werk",
+      "correct": "un travail (des travaux)",
+      "alt": [
+        "un verre",
+        "la viande"
+      ]
+    },
+    {
+      "id": "C15-W-012",
+      "contact": "C15",
+      "type": "woordje",
+      "dutch": "een glas",
+      "correct": "un verre",
+      "alt": [
+        "la viande",
+        "détester"
+      ]
+    },
+    {
+      "id": "C15-W-013",
+      "contact": "C15",
+      "type": "woordje",
+      "dutch": "het vlees",
+      "correct": "la viande",
+      "alt": [
+        "détester",
+        "mettre"
+      ]
+    },
+    {
+      "id": "C15-W-014",
+      "contact": "C15",
+      "type": "woordje",
+      "dutch": "haten",
+      "correct": "détester",
+      "alt": [
+        "mettre",
+        "pouvoir"
+      ]
+    },
+    {
+      "id": "C15-W-015",
+      "contact": "C15",
+      "type": "woordje",
+      "dutch": "leggen, plaatsen",
+      "correct": "mettre",
+      "alt": [
+        "pouvoir",
+        "vouloir"
+      ]
+    },
+    {
+      "id": "C15-W-016",
+      "contact": "C15",
+      "type": "woordje",
+      "dutch": "mogen, kunnen",
+      "correct": "pouvoir",
+      "alt": [
+        "vouloir",
+        "facile"
+      ]
+    },
+    {
+      "id": "C15-W-017",
+      "contact": "C15",
+      "type": "woordje",
+      "dutch": "willen",
+      "correct": "vouloir",
+      "alt": [
+        "facile",
+        "on"
+      ]
+    },
+    {
+      "id": "C15-W-018",
+      "contact": "C15",
+      "type": "woordje",
+      "dutch": "gemakkelijk",
+      "correct": "facile",
+      "alt": [
+        "on",
+        "par"
+      ]
+    },
+    {
+      "id": "C15-W-019",
+      "contact": "C15",
+      "type": "woordje",
+      "dutch": "men, we",
+      "correct": "on",
+      "alt": [
+        "par",
+        "y"
+      ]
+    },
+    {
+      "id": "C15-W-020",
+      "contact": "C15",
+      "type": "woordje",
+      "dutch": "per",
+      "correct": "par",
+      "alt": [
+        "y",
+        "une assiette"
+      ]
+    },
+    {
+      "id": "C15-W-021",
+      "contact": "C15",
+      "type": "woordje",
+      "dutch": "er",
+      "correct": "y",
+      "alt": [
+        "une assiette",
+        "un boucher"
+      ]
+    },
+    {
+      "id": "C15-E-001",
+      "contact": "C15",
+      "type": "uitdrukking",
+      "dutch": "We hebben echt honger.",
+      "correct": "On a vraiment faim.",
+      "alt": [
+        "Je préfère la viande.",
+        "Trois fois par semaine."
+      ]
+    },
+    {
+      "id": "C15-E-002",
+      "contact": "C15",
+      "type": "uitdrukking",
+      "dutch": "Ik eet liever vlees.",
+      "correct": "Je préfère la viande.",
+      "alt": [
+        "Trois fois par semaine.",
+        "Je déteste les chicons."
+      ]
+    },
+    {
+      "id": "C15-E-003",
+      "contact": "C15",
+      "type": "uitdrukking",
+      "dutch": "Drie keer per week.",
+      "correct": "Trois fois par semaine.",
+      "alt": [
+        "Je déteste les chicons.",
+        "Qu’est-ce que vous voulez?"
+      ]
+    },
+    {
+      "id": "C15-E-004",
+      "contact": "C15",
+      "type": "uitdrukking",
+      "dutch": "Ik haat witloof.",
+      "correct": "Je déteste les chicons.",
+      "alt": [
+        "Qu’est-ce que vous voulez?",
+        "On a envie de ..."
+      ]
+    },
+    {
+      "id": "C15-E-005",
+      "contact": "C15",
+      "type": "uitdrukking",
+      "dutch": "Wat willen jullie?",
+      "correct": "Qu’est-ce que vous voulez?",
+      "alt": [
+        "On a envie de ...",
+        "On va mettre la table."
+      ]
+    },
+    {
+      "id": "C15-E-006",
+      "contact": "C15",
+      "type": "uitdrukking",
+      "dutch": "We hebben zin in ...",
+      "correct": "On a envie de ...",
+      "alt": [
+        "On va mettre la table.",
+        "Tu as raison."
+      ]
+    },
+    {
+      "id": "C15-E-007",
+      "contact": "C15",
+      "type": "uitdrukking",
+      "dutch": "We gaan de tafel dekken.",
+      "correct": "On va mettre la table.",
+      "alt": [
+        "Tu as raison.",
+        "Tout y est."
+      ]
+    },
+    {
+      "id": "C15-E-008",
+      "contact": "C15",
+      "type": "uitdrukking",
+      "dutch": "Je hebt gelijk.",
+      "correct": "Tu as raison.",
+      "alt": [
+        "Tout y est.",
+        "On va mettre une nappe."
+      ]
+    },
+    {
+      "id": "C15-E-009",
+      "contact": "C15",
+      "type": "uitdrukking",
+      "dutch": "Alles is er.",
+      "correct": "Tout y est.",
+      "alt": [
+        "On va mettre une nappe.",
+        "On a vraiment faim."
+      ]
+    },
+    {
+      "id": "C15-E-010",
+      "contact": "C15",
+      "type": "uitdrukking",
+      "dutch": "We gaan een tafelkleed leggen.",
+      "correct": "On va mettre une nappe.",
+      "alt": [
+        "On a vraiment faim.",
+        "Je préfère la viande."
+      ]
+    }
+  ],
+  "contact16": [
+    {
+      "id": "C16-W-001",
+      "contact": "C16",
+      "type": "woordje",
+      "dutch": "een huiswerk",
+      "correct": "un devoir",
+      "alt": [
+        "un examen",
+        "un exercice"
+      ]
+    },
+    {
+      "id": "C16-W-002",
+      "contact": "C16",
+      "type": "woordje",
+      "dutch": "een examen",
+      "correct": "un examen",
+      "alt": [
+        "un exercice",
+        "les informations"
+      ]
+    },
+    {
+      "id": "C16-W-003",
+      "contact": "C16",
+      "type": "woordje",
+      "dutch": "een oefening",
+      "correct": "un exercice",
+      "alt": [
+        "les informations",
+        "la météo"
+      ]
+    },
+    {
+      "id": "C16-W-004",
+      "contact": "C16",
+      "type": "woordje",
+      "dutch": "het nieuws",
+      "correct": "les informations",
+      "alt": [
+        "la météo",
+        "arrêter"
+      ]
+    },
+    {
+      "id": "C16-W-005",
+      "contact": "C16",
+      "type": "woordje",
+      "dutch": "het weerbericht",
+      "correct": "la météo",
+      "alt": [
+        "arrêter",
+        "commencer"
+      ]
+    },
+    {
+      "id": "C16-W-006",
+      "contact": "C16",
+      "type": "woordje",
+      "dutch": "stoppen",
+      "correct": "arrêter",
+      "alt": [
+        "commencer",
+        "écouter"
+      ]
+    },
+    {
+      "id": "C16-W-007",
+      "contact": "C16",
+      "type": "woordje",
+      "dutch": "beginnen",
+      "correct": "commencer",
+      "alt": [
+        "écouter",
+        "voir"
+      ]
+    },
+    {
+      "id": "C16-W-008",
+      "contact": "C16",
+      "type": "woordje",
+      "dutch": "luisteren (naar)",
+      "correct": "écouter",
+      "alt": [
+        "voir",
+        "amusant(e)"
+      ]
+    },
+    {
+      "id": "C16-W-009",
+      "contact": "C16",
+      "type": "woordje",
+      "dutch": "zien, kijken",
+      "correct": "voir",
+      "alt": [
+        "amusant(e)",
+        "aujourd’hui"
+      ]
+    },
+    {
+      "id": "C16-W-010",
+      "contact": "C16",
+      "type": "woordje",
+      "dutch": "plezant",
+      "correct": "amusant(e)",
+      "alt": [
+        "aujourd’hui",
+        "ce, cet, cette, ces"
+      ]
+    },
+    {
+      "id": "C16-W-011",
+      "contact": "C16",
+      "type": "woordje",
+      "dutch": "vandaag",
+      "correct": "aujourd’hui",
+      "alt": [
+        "ce, cet, cette, ces",
+        "ceci"
+      ]
+    },
+    {
+      "id": "C16-W-012",
+      "contact": "C16",
+      "type": "woordje",
+      "dutch": "dit, die, deze",
+      "correct": "ce, cet, cette, ces",
+      "alt": [
+        "ceci",
+        "cela"
+      ]
+    },
+    {
+      "id": "C16-W-013",
+      "contact": "C16",
+      "type": "woordje",
+      "dutch": "dit",
+      "correct": "ceci",
+      "alt": [
+        "cela",
+        "tôt"
+      ]
+    },
+    {
+      "id": "C16-W-014",
+      "contact": "C16",
+      "type": "woordje",
+      "dutch": "dat",
+      "correct": "cela",
+      "alt": [
+        "tôt",
+        "trop"
+      ]
+    },
+    {
+      "id": "C16-W-015",
+      "contact": "C16",
+      "type": "woordje",
+      "dutch": "vroeg",
+      "correct": "tôt",
+      "alt": [
+        "trop",
+        "les jours:"
+      ]
+    },
+    {
+      "id": "C16-W-016",
+      "contact": "C16",
+      "type": "woordje",
+      "dutch": "te",
+      "correct": "trop",
+      "alt": [
+        "les jours:",
+        "lundi, mardi"
+      ]
+    },
+    {
+      "id": "C16-W-017",
+      "contact": "C16",
+      "type": "woordje",
+      "dutch": "de dagen:",
+      "correct": "les jours:",
+      "alt": [
+        "lundi, mardi",
+        "mercredi, jeudi"
+      ]
+    },
+    {
+      "id": "C16-W-018",
+      "contact": "C16",
+      "type": "woordje",
+      "dutch": "maandag, dinsdag",
+      "correct": "lundi, mardi",
+      "alt": [
+        "mercredi, jeudi",
+        "vendredi, samedi"
+      ]
+    },
+    {
+      "id": "C16-W-019",
+      "contact": "C16",
+      "type": "woordje",
+      "dutch": "woensdag, donderdag",
+      "correct": "mercredi, jeudi",
+      "alt": [
+        "vendredi, samedi",
+        "dimanche"
+      ]
+    },
+    {
+      "id": "C16-W-020",
+      "contact": "C16",
+      "type": "woordje",
+      "dutch": "vrijdag, zaterdag",
+      "correct": "vendredi, samedi",
+      "alt": [
+        "dimanche",
+        "un devoir"
+      ]
+    },
+    {
+      "id": "C16-W-021",
+      "contact": "C16",
+      "type": "woordje",
+      "dutch": "zondag",
+      "correct": "dimanche",
+      "alt": [
+        "un devoir",
+        "un examen"
+      ]
+    },
+    {
+      "id": "C16-E-001",
+      "contact": "C16",
+      "type": "uitdrukking",
+      "dutch": "Mag ik ...?",
+      "correct": "Je peux ...?",
+      "alt": [
+        "Je peux regarder la télé?",
+        "Il est trop tard."
+      ]
+    },
+    {
+      "id": "C16-E-002",
+      "contact": "C16",
+      "type": "uitdrukking",
+      "dutch": "Mag ik tv-kijken?",
+      "correct": "Je peux regarder la télé?",
+      "alt": [
+        "Il est trop tard.",
+        "Il est trop tôt."
+      ]
+    },
+    {
+      "id": "C16-E-003",
+      "contact": "C16",
+      "type": "uitdrukking",
+      "dutch": "Het is te laat.",
+      "correct": "Il est trop tard.",
+      "alt": [
+        "Il est trop tôt.",
+        "Ce n’est pas amusant."
+      ]
+    },
+    {
+      "id": "C16-E-004",
+      "contact": "C16",
+      "type": "uitdrukking",
+      "dutch": "Het is te vroeg.",
+      "correct": "Il est trop tôt.",
+      "alt": [
+        "Ce n’est pas amusant.",
+        "Qu’est-ce que je peux faire?"
+      ]
+    },
+    {
+      "id": "C16-E-005",
+      "contact": "C16",
+      "type": "uitdrukking",
+      "dutch": "Het is niet leuk.",
+      "correct": "Ce n’est pas amusant.",
+      "alt": [
+        "Qu’est-ce que je peux faire?",
+        "Arrête!"
+      ]
+    },
+    {
+      "id": "C16-E-006",
+      "contact": "C16",
+      "type": "uitdrukking",
+      "dutch": "Wat mag ik doen?",
+      "correct": "Qu’est-ce que je peux faire?",
+      "alt": [
+        "Arrête!",
+        "Quel jour sommes-nous?"
+      ]
+    },
+    {
+      "id": "C16-E-007",
+      "contact": "C16",
+      "type": "uitdrukking",
+      "dutch": "Stop ermee! Hou op!",
+      "correct": "Arrête!",
+      "alt": [
+        "Quel jour sommes-nous?",
+        "Nous sommes lundi."
+      ]
+    },
+    {
+      "id": "C16-E-008",
+      "contact": "C16",
+      "type": "uitdrukking",
+      "dutch": "Welke dag is het?",
+      "correct": "Quel jour sommes-nous?",
+      "alt": [
+        "Nous sommes lundi.",
+        "Qu’est-ce qu’il y a à la télé?"
+      ]
+    },
+    {
+      "id": "C16-E-009",
+      "contact": "C16",
+      "type": "uitdrukking",
+      "dutch": "Het is maandag.",
+      "correct": "Nous sommes lundi.",
+      "alt": [
+        "Qu’est-ce qu’il y a à la télé?",
+        "Ce film commence quand?"
+      ]
+    },
+    {
+      "id": "C16-E-010",
+      "contact": "C16",
+      "type": "uitdrukking",
+      "dutch": "Wat is er op tv?",
+      "correct": "Qu’est-ce qu’il y a à la télé?",
+      "alt": [
+        "Ce film commence quand?",
+        "On va voir les informations."
+      ]
+    },
+    {
+      "id": "C16-E-011",
+      "contact": "C16",
+      "type": "uitdrukking",
+      "dutch": "Wanneer begint de film?",
+      "correct": "Ce film commence quand?",
+      "alt": [
+        "On va voir les informations.",
+        "Je peux ...?"
+      ]
+    },
+    {
+      "id": "C16-E-012",
+      "contact": "C16",
+      "type": "uitdrukking",
+      "dutch": "We gaan kijken naar het nieuws.",
+      "correct": "On va voir les informations.",
+      "alt": [
+        "Je peux ...?",
+        "Je peux regarder la télé?"
+      ]
+    }
+  ],
+  "contact17": [
+    {
+      "id": "C17-W-001",
+      "contact": "C17",
+      "type": "woordje",
+      "dutch": "een speelplaats",
+      "correct": "une cour",
+      "alt": [
+        "un dos",
+        "un fils"
+      ]
+    },
+    {
+      "id": "C17-W-002",
+      "contact": "C17",
+      "type": "woordje",
+      "dutch": "een rug",
+      "correct": "un dos",
+      "alt": [
+        "un fils",
+        "une fille"
+      ]
+    },
+    {
+      "id": "C17-W-003",
+      "contact": "C17",
+      "type": "woordje",
+      "dutch": "een zoon",
+      "correct": "un fils",
+      "alt": [
+        "une fille",
+        "un lit"
+      ]
+    },
+    {
+      "id": "C17-W-004",
+      "contact": "C17",
+      "type": "woordje",
+      "dutch": "een dochter",
+      "correct": "une fille",
+      "alt": [
+        "un lit",
+        "une oreille"
+      ]
+    },
+    {
+      "id": "C17-W-005",
+      "contact": "C17",
+      "type": "woordje",
+      "dutch": "een bed",
+      "correct": "un lit",
+      "alt": [
+        "une oreille",
+        "un pied"
+      ]
+    },
+    {
+      "id": "C17-W-006",
+      "contact": "C17",
+      "type": "woordje",
+      "dutch": "een oor",
+      "correct": "une oreille",
+      "alt": [
+        "un pied",
+        "une tête"
+      ]
+    },
+    {
+      "id": "C17-W-007",
+      "contact": "C17",
+      "type": "woordje",
+      "dutch": "een voet",
+      "correct": "un pied",
+      "alt": [
+        "une tête",
+        "un voisin"
+      ]
+    },
+    {
+      "id": "C17-W-008",
+      "contact": "C17",
+      "type": "woordje",
+      "dutch": "een hoofd",
+      "correct": "une tête",
+      "alt": [
+        "un voisin",
+        "une voisine"
+      ]
+    },
+    {
+      "id": "C17-W-009",
+      "contact": "C17",
+      "type": "woordje",
+      "dutch": "een buurman",
+      "correct": "un voisin",
+      "alt": [
+        "une voisine",
+        "devoir : il doit"
+      ]
+    },
+    {
+      "id": "C17-W-010",
+      "contact": "C17",
+      "type": "woordje",
+      "dutch": "een buurvrouw",
+      "correct": "une voisine",
+      "alt": [
+        "devoir : il doit",
+        "rester"
+      ]
+    },
+    {
+      "id": "C17-W-011",
+      "contact": "C17",
+      "type": "woordje",
+      "dutch": "moeten: hij moet",
+      "correct": "devoir : il doit",
+      "alt": [
+        "rester",
+        "revenir"
+      ]
+    },
+    {
+      "id": "C17-W-012",
+      "contact": "C17",
+      "type": "woordje",
+      "dutch": "blijven",
+      "correct": "rester",
+      "alt": [
+        "revenir",
+        "grave"
+      ]
+    },
+    {
+      "id": "C17-W-013",
+      "contact": "C17",
+      "type": "woordje",
+      "dutch": "terugkomen",
+      "correct": "revenir",
+      "alt": [
+        "grave",
+        "mal"
+      ]
+    },
+    {
+      "id": "C17-W-014",
+      "contact": "C17",
+      "type": "woordje",
+      "dutch": "erg",
+      "correct": "grave",
+      "alt": [
+        "mal",
+        "malade"
+      ]
+    },
+    {
+      "id": "C17-W-015",
+      "contact": "C17",
+      "type": "woordje",
+      "dutch": "slecht",
+      "correct": "mal",
+      "alt": [
+        "malade",
+        "pendant"
+      ]
+    },
+    {
+      "id": "C17-W-016",
+      "contact": "C17",
+      "type": "woordje",
+      "dutch": "ziek",
+      "correct": "malade",
+      "alt": [
+        "pendant",
+        "quelque(s)"
+      ]
+    },
+    {
+      "id": "C17-W-017",
+      "contact": "C17",
+      "type": "woordje",
+      "dutch": "gedurende, tijdens",
+      "correct": "pendant",
+      "alt": [
+        "quelque(s)",
+        "une cour"
+      ]
+    },
+    {
+      "id": "C17-W-018",
+      "contact": "C17",
+      "type": "woordje",
+      "dutch": "enkele, enige",
+      "correct": "quelque(s)",
+      "alt": [
+        "une cour",
+        "un dos"
+      ]
+    },
+    {
+      "id": "C17-E-001",
+      "contact": "C17",
+      "type": "uitdrukking",
+      "dutch": "Het is niet erg.",
+      "correct": "Ce n’est pas grave.",
+      "alt": [
+        "Il n’est pas à l’école.",
+        "Il est malade."
+      ]
+    },
+    {
+      "id": "C17-E-002",
+      "contact": "C17",
+      "type": "uitdrukking",
+      "dutch": "Hij is niet op school.",
+      "correct": "Il n’est pas à l’école.",
+      "alt": [
+        "Il est malade.",
+        "Où as-tu mal?"
+      ]
+    },
+    {
+      "id": "C17-E-003",
+      "contact": "C17",
+      "type": "uitdrukking",
+      "dutch": "Hij is ziek.",
+      "correct": "Il est malade.",
+      "alt": [
+        "Où as-tu mal?",
+        "J’ai mal au pied."
+      ]
+    },
+    {
+      "id": "C17-E-004",
+      "contact": "C17",
+      "type": "uitdrukking",
+      "dutch": "Waar heb je pijn?",
+      "correct": "Où as-tu mal?",
+      "alt": [
+        "J’ai mal au pied.",
+        "J’ai mal à la tête."
+      ]
+    },
+    {
+      "id": "C17-E-005",
+      "contact": "C17",
+      "type": "uitdrukking",
+      "dutch": "Ik heb pijn aan mijn voet.",
+      "correct": "J’ai mal au pied.",
+      "alt": [
+        "J’ai mal à la tête.",
+        "Il doit rester au lit."
+      ]
+    },
+    {
+      "id": "C17-E-006",
+      "contact": "C17",
+      "type": "uitdrukking",
+      "dutch": "Ik heb hoofdpijn.",
+      "correct": "J’ai mal à la tête.",
+      "alt": [
+        "Il doit rester au lit.",
+        "Il va revenir."
+      ]
+    },
+    {
+      "id": "C17-E-007",
+      "contact": "C17",
+      "type": "uitdrukking",
+      "dutch": "Hij moet in bed blijven.",
+      "correct": "Il doit rester au lit.",
+      "alt": [
+        "Il va revenir.",
+        "Ce n’est pas grave."
+      ]
+    },
+    {
+      "id": "C17-E-008",
+      "contact": "C17",
+      "type": "uitdrukking",
+      "dutch": "Hij gaat terugkomen.",
+      "correct": "Il va revenir.",
+      "alt": [
+        "Ce n’est pas grave.",
+        "Il n’est pas à l’école."
+      ]
+    }
+  ],
+  "contact18": [
+    {
+      "id": "C18-W-001",
+      "contact": "C18",
+      "type": "woordje",
+      "dutch": "een appartement",
+      "correct": "un appartement",
+      "alt": [
+        "un avion",
+        "la Belgique"
+      ]
+    },
+    {
+      "id": "C18-W-002",
+      "contact": "C18",
+      "type": "woordje",
+      "dutch": "een vliegtuig",
+      "correct": "un avion",
+      "alt": [
+        "la Belgique",
+        "un bois"
+      ]
+    },
+    {
+      "id": "C18-W-003",
+      "contact": "C18",
+      "type": "woordje",
+      "dutch": "België",
+      "correct": "la Belgique",
+      "alt": [
+        "un bois",
+        "un bus"
+      ]
+    },
+    {
+      "id": "C18-W-004",
+      "contact": "C18",
+      "type": "woordje",
+      "dutch": "een bos",
+      "correct": "un bois",
+      "alt": [
+        "un bus",
+        "l’Espagne"
+      ]
+    },
+    {
+      "id": "C18-W-005",
+      "contact": "C18",
+      "type": "woordje",
+      "dutch": "een bus",
+      "correct": "un bus",
+      "alt": [
+        "l’Espagne",
+        "une famille"
+      ]
+    },
+    {
+      "id": "C18-W-006",
+      "contact": "C18",
+      "type": "woordje",
+      "dutch": "Spanje",
+      "correct": "l’Espagne",
+      "alt": [
+        "une famille",
+        "la France"
+      ]
+    },
+    {
+      "id": "C18-W-007",
+      "contact": "C18",
+      "type": "woordje",
+      "dutch": "een familie",
+      "correct": "une famille",
+      "alt": [
+        "la France",
+        "un hôtel"
+      ]
+    },
+    {
+      "id": "C18-W-008",
+      "contact": "C18",
+      "type": "woordje",
+      "dutch": "Frankrijk",
+      "correct": "la France",
+      "alt": [
+        "un hôtel",
+        "une mer"
+      ]
+    },
+    {
+      "id": "C18-W-009",
+      "contact": "C18",
+      "type": "woordje",
+      "dutch": "een hotel",
+      "correct": "un hôtel",
+      "alt": [
+        "une mer",
+        "une montagne"
+      ]
+    },
+    {
+      "id": "C18-W-010",
+      "contact": "C18",
+      "type": "woordje",
+      "dutch": "een zee",
+      "correct": "une mer",
+      "alt": [
+        "une montagne",
+        "les Pays-Bas"
+      ]
+    },
+    {
+      "id": "C18-W-011",
+      "contact": "C18",
+      "type": "woordje",
+      "dutch": "een berg",
+      "correct": "une montagne",
+      "alt": [
+        "les Pays-Bas",
+        "le Portugal"
+      ]
+    },
+    {
+      "id": "C18-W-012",
+      "contact": "C18",
+      "type": "woordje",
+      "dutch": "Nederland",
+      "correct": "les Pays-Bas",
+      "alt": [
+        "le Portugal",
+        "le soleil"
+      ]
+    },
+    {
+      "id": "C18-W-013",
+      "contact": "C18",
+      "type": "woordje",
+      "dutch": "Portugal",
+      "correct": "le Portugal",
+      "alt": [
+        "le soleil",
+        "le temps"
+      ]
+    },
+    {
+      "id": "C18-W-014",
+      "contact": "C18",
+      "type": "woordje",
+      "dutch": "de zon",
+      "correct": "le soleil",
+      "alt": [
+        "le temps",
+        "un train"
+      ]
+    },
+    {
+      "id": "C18-W-015",
+      "contact": "C18",
+      "type": "woordje",
+      "dutch": "het weer, de tijd",
+      "correct": "le temps",
+      "alt": [
+        "un train",
+        "le vent"
+      ]
+    },
+    {
+      "id": "C18-W-016",
+      "contact": "C18",
+      "type": "woordje",
+      "dutch": "een trein",
+      "correct": "un train",
+      "alt": [
+        "le vent",
+        "une voiture"
+      ]
+    },
+    {
+      "id": "C18-W-017",
+      "contact": "C18",
+      "type": "woordje",
+      "dutch": "de wind",
+      "correct": "le vent",
+      "alt": [
+        "une voiture",
+        "annoncer"
+      ]
+    },
+    {
+      "id": "C18-W-018",
+      "contact": "C18",
+      "type": "woordje",
+      "dutch": "een wagen",
+      "correct": "une voiture",
+      "alt": [
+        "annoncer",
+        "pleuvoir : il pleut"
+      ]
+    },
+    {
+      "id": "C18-W-019",
+      "contact": "C18",
+      "type": "woordje",
+      "dutch": "aankondigen",
+      "correct": "annoncer",
+      "alt": [
+        "pleuvoir : il pleut",
+        "tomber"
+      ]
+    },
+    {
+      "id": "C18-W-020",
+      "contact": "C18",
+      "type": "woordje",
+      "dutch": "regenen: het regent",
+      "correct": "pleuvoir : il pleut",
+      "alt": [
+        "tomber",
+        "froid(e)"
+      ]
+    },
+    {
+      "id": "C18-W-021",
+      "contact": "C18",
+      "type": "woordje",
+      "dutch": "vallen",
+      "correct": "tomber",
+      "alt": [
+        "froid(e)",
+        "là-bas"
+      ]
+    },
+    {
+      "id": "C18-W-022",
+      "contact": "C18",
+      "type": "woordje",
+      "dutch": "koud",
+      "correct": "froid(e)",
+      "alt": [
+        "là-bas",
+        "mauvais(e)"
+      ]
+    },
+    {
+      "id": "C18-W-023",
+      "contact": "C18",
+      "type": "woordje",
+      "dutch": "daar",
+      "correct": "là-bas",
+      "alt": [
+        "mauvais(e)",
+        "même"
+      ]
+    },
+    {
+      "id": "C18-W-024",
+      "contact": "C18",
+      "type": "woordje",
+      "dutch": "slecht",
+      "correct": "mauvais(e)",
+      "alt": [
+        "même",
+        "ou"
+      ]
+    },
+    {
+      "id": "C18-W-025",
+      "contact": "C18",
+      "type": "woordje",
+      "dutch": "zelfs",
+      "correct": "même",
+      "alt": [
+        "ou",
+        "un appartement"
+      ]
+    },
+    {
+      "id": "C18-W-026",
+      "contact": "C18",
+      "type": "woordje",
+      "dutch": "of",
+      "correct": "ou",
+      "alt": [
+        "un appartement",
+        "un avion"
+      ]
+    },
+    {
+      "id": "C18-E-001",
+      "contact": "C18",
+      "type": "uitdrukking",
+      "dutch": "Welk weer is het?",
+      "correct": "Quel temps fait-il?",
+      "alt": [
+        "Il fait chaud.",
+        "Il fait beau."
+      ]
+    },
+    {
+      "id": "C18-E-002",
+      "contact": "C18",
+      "type": "uitdrukking",
+      "dutch": "Het is warm.",
+      "correct": "Il fait chaud.",
+      "alt": [
+        "Il fait beau.",
+        "Il pleut."
+      ]
+    },
+    {
+      "id": "C18-E-003",
+      "contact": "C18",
+      "type": "uitdrukking",
+      "dutch": "Het is mooi weer.",
+      "correct": "Il fait beau.",
+      "alt": [
+        "Il pleut.",
+        "Il y a du soleil."
+      ]
+    },
+    {
+      "id": "C18-E-004",
+      "contact": "C18",
+      "type": "uitdrukking",
+      "dutch": "Het regent.",
+      "correct": "Il pleut.",
+      "alt": [
+        "Il y a du soleil.",
+        "Il y a du vent."
+      ]
+    },
+    {
+      "id": "C18-E-005",
+      "contact": "C18",
+      "type": "uitdrukking",
+      "dutch": "Er is zon.",
+      "correct": "Il y a du soleil.",
+      "alt": [
+        "Il y a du vent.",
+        "Ça tombe mal."
+      ]
+    },
+    {
+      "id": "C18-E-006",
+      "contact": "C18",
+      "type": "uitdrukking",
+      "dutch": "Er is wind.",
+      "correct": "Il y a du vent.",
+      "alt": [
+        "Ça tombe mal.",
+        "Elle va à la montagne."
+      ]
+    },
+    {
+      "id": "C18-E-007",
+      "contact": "C18",
+      "type": "uitdrukking",
+      "dutch": "Dat komt slecht uit.",
+      "correct": "Ça tombe mal.",
+      "alt": [
+        "Elle va à la montagne.",
+        "Quel temps annonce la météo?"
+      ]
+    },
+    {
+      "id": "C18-E-008",
+      "contact": "C18",
+      "type": "uitdrukking",
+      "dutch": "Ze gaat naar de bergen.",
+      "correct": "Elle va à la montagne.",
+      "alt": [
+        "Quel temps annonce la météo?",
+        "Il va faire froid."
+      ]
+    },
+    {
+      "id": "C18-E-009",
+      "contact": "C18",
+      "type": "uitdrukking",
+      "dutch": "Welk weer wordt er aangekondigd?",
+      "correct": "Quel temps annonce la météo?",
+      "alt": [
+        "Il va faire froid.",
+        "Il va faire mauvais."
+      ]
+    },
+    {
+      "id": "C18-E-010",
+      "contact": "C18",
+      "type": "uitdrukking",
+      "dutch": "Het wordt koud.",
+      "correct": "Il va faire froid.",
+      "alt": [
+        "Il va faire mauvais.",
+        "Il va pleuvoir."
+      ]
+    },
+    {
+      "id": "C18-E-011",
+      "contact": "C18",
+      "type": "uitdrukking",
+      "dutch": "Het wordt slecht weer.",
+      "correct": "Il va faire mauvais.",
+      "alt": [
+        "Il va pleuvoir.",
+        "Il va y avoir du soleil."
+      ]
+    },
+    {
+      "id": "C18-E-012",
+      "contact": "C18",
+      "type": "uitdrukking",
+      "dutch": "Het gaat regenen.",
+      "correct": "Il va pleuvoir.",
+      "alt": [
+        "Il va y avoir du soleil.",
+        "On y va en train."
+      ]
+    },
+    {
+      "id": "C18-E-013",
+      "contact": "C18",
+      "type": "uitdrukking",
+      "dutch": "Er komt zon.",
+      "correct": "Il va y avoir du soleil.",
+      "alt": [
+        "On y va en train.",
+        "On va en avion."
+      ]
+    },
+    {
+      "id": "C18-E-014",
+      "contact": "C18",
+      "type": "uitdrukking",
+      "dutch": "We gaan er met de trein naartoe.",
+      "correct": "On y va en train.",
+      "alt": [
+        "On va en avion.",
+        "Il y va en voiture."
+      ]
+    },
+    {
+      "id": "C18-E-015",
+      "contact": "C18",
+      "type": "uitdrukking",
+      "dutch": "We gaan met het vliegtuig.",
+      "correct": "On va en avion.",
+      "alt": [
+        "Il y va en voiture.",
+        "Quel temps fait-il?"
+      ]
+    },
+    {
+      "id": "C18-E-016",
+      "contact": "C18",
+      "type": "uitdrukking",
+      "dutch": "Hij gaat er met de auto naartoe.",
+      "correct": "Il y va en voiture.",
+      "alt": [
+        "Quel temps fait-il?",
+        "Il fait chaud."
+      ]
+    }
+  ]
+}
